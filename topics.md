@@ -14,3 +14,4 @@
 - [Position-independent Code/Executables](https://eli.thegreenplace.net/2011/11/11/position-independent-code-pic-in-shared-libraries-on-x64) including the GOT and PLT
 - [Thread-Local Storage](https://chao-tic.github.io/blog/2018/12/25/tls), [other examples](https://maskray.me/blog/2021-02-14-all-about-thread-local-storage), [details](https://akkadia.org/drepper/tls.pdf)
 - [Zero-copy I/O for ublk, three different ways](https://lwn.net/Articles/926118/)
+- Understanding compiler optimizations, and their interactions with link-time optimization.
