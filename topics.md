@@ -13,6 +13,15 @@
 - Understanding processor pipeline [dependencies](https://johnnysswlab.com/when-an-instruction-depends-on-the-previous-instruction-depends-on-the-previous-instructions-long-instruction-dependency-chains-and-performance/), and how to hide memory access latencies [using instruction-level parallelism on out-of-order machines](https://johnnysswlab.com/instruction-level-parallelism-in-practice-speeding-up-memory-bound-programs-with-low-ilp/)
 - Parallelism in [javascript](https://webkit.org/blog/7846/concurrent-javascript-it-can-work/)
 - User-level synchronization in a [browser, including the popular parking lot mechanisms](https://webkit.org/blog/6161/locking-in-webkit/)
+- C [cleanup attributes](https://lwn.net/Articles/934679/) - should we use a non-standard extension?
+- [Addressing priority inversion with proxy execution](https://lwn.net/Articles/934114/)
+- [Deadline servers as a realtime throttling replacement](https://lwn.net/Articles/934415/)
+- [Optimizing single-owner memory](https://lwn.net/Articles/932391/)
+- [Mitigating vmap lock contention](https://lwn.net/Articles/932396/) and [Improving page-fault scalability](https://lwn.net/Articles/932298/)
+- [Memory passthrough for virtual machines](https://lwn.net/Articles/931933/)
+- [1½ Topics: realtime throttling and user-space adaptive spinning](https://lwn.net/Articles/931789/)
+- [User-space control of memory management](https://lwn.net/Articles/931662/)
+
 
 # Topics we've discussed (but can revisit)
 
