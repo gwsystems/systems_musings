@@ -25,6 +25,7 @@
 - [Latency management in the scheduler (old)](https://lwn.net/Articles/404993/)
 - [Core scheduling to avoid SMT/hyperthreading sidechannels](https://lwn.net/Articles/780703/) and [potential uses](https://lwn.net/Articles/799454/)
 - Can we find an article on KPI (kernel page-table isolation)?
+- Risc-V bootup procedures vs. x86
 
 # Index of LWN articles
 
