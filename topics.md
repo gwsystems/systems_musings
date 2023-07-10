@@ -21,7 +21,15 @@
 - [Memory passthrough for virtual machines](https://lwn.net/Articles/931933/)
 - [1½ Topics: realtime throttling and user-space adaptive spinning](https://lwn.net/Articles/931789/)
 - [User-space control of memory management](https://lwn.net/Articles/931662/)
+- [Complexities of directed yield](https://lwn.net/Articles/419961/)
+- [Latency management in the scheduler (old)](https://lwn.net/Articles/404993/)
+- [Core scheduling to avoid SMT/hyperthreading sidechannels](https://lwn.net/Articles/780703/) and [potential uses](https://lwn.net/Articles/799454/)
+- Can we find an article on KPI (kernel page-table isolation)?
 
+# Index of LWN articles
+
+See the great [index](https://lwn.net/Kernel/Index/) of all of the LWN kernel articles. 
+Makes it easier to browse through them to find whatever you're interested in.
 
 # Topics we've discussed (but can revisit)
 
