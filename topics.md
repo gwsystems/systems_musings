@@ -1,5 +1,6 @@
 # List of Potential Topics for Musing
 
+- Understanding [bugs in embedded systems](https://dl.acm.org/doi/10.1145/3597926.3598140)
 - [Speculation in Javascript](https://webkit.org/blog/10308/speculation-in-javascriptcore/) that also covers JIT compilation
 - [Embedded Linux status](https://static.sched.com/hosted_files/eoss2023/68/Debating-Linux-in-Aerospace%20-VanderLeest-Brink.pdf)
 - [Async spawn using io_uring](https://lwn.net/Articles/908268/)
