@@ -26,7 +26,6 @@
 
 # Scheduled Discussions
 
-- x86_64 [code optimizations, exception handling, and calling conventions](https://codemachine.com/articles/x64_deep_dive.html)
 - Elf [relocations](https://intezer.com/blog/malware-analysis/executable-and-linkable-format-101-part-3-relocations/)
 - [Async spawn using io_uring](https://lwn.net/Articles/908268/)
 - [Open vs. closed workload generators](https://brooker.co.za/blog/2023/05/10/open-closed.html)
@@ -38,6 +37,7 @@ Makes it easier to browse through them to find whatever you're interested in.
 
 # Topics we've discussed (but can revisit)
 
+- x86_64 [code optimizations, exception handling, and calling conventions](https://codemachine.com/articles/x64_deep_dive.html)
 - [Embedded Linux status](https://static.sched.com/hosted_files/eoss2023/68/Debating-Linux-in-Aerospace%20-VanderLeest-Brink.pdf)
 - [Speculation in Javascript](https://webkit.org/blog/10308/speculation-in-javascriptcore/) that also covers JIT compilation
 - [x86 boot process/procedure](https://0xax.gitbooks.io/linux-insides/content/Booting/linux-bootstrap-1.html)
