@@ -25,7 +25,10 @@
 - Risc-V bootup procedures vs. x86
 - Detailed [architectural summary of Intel's Sandy Bridge](https://chipsandcheese.com/2023/08/04/sandy-bridge-setting-intels-modern-foundation/)
 - Linker scripts in detail. [Link](https://mcyoung.xyz/2021/06/01/linker-script/) The [composite loader](https://github.com/gwsystems/composite/blob/main/src/kernel/include/shared/elf_loader.h), which assumes the [linker script](https://github.com/gwsystems/composite/blob/main/src/components/implementation/comp_x86_64.ld) has generated a two-program-header binary.
-- 
+- Attempts to make it so that [bpf can execute unpriv](https://lwn.net/Articles/935195/) code.
+- [Scheduling](https://lwn.net/Articles/935180/): pluggable bpf scheduling, priority inheritance through proxy execution, and different timer structures
+- Page management and tracking in Linux. [struct page](https://lwn.net/Articles/937839/) (vs. [Composite's](https://github.com/gwsystems/composite/blob/v4/src/kernel/include/resources.h#L10-L17)), generalizing into [folios](https://lwn.net/Articles/849538/), and general page [management](https://lwn.net/Articles/619514/)
+  
 # Scheduled Discussions
 
 - [Async spawn using io_uring](https://lwn.net/Articles/908268/)
