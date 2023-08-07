@@ -23,7 +23,7 @@
 - [Core scheduling to avoid SMT/hyperthreading sidechannels](https://lwn.net/Articles/780703/) and [potential uses](https://lwn.net/Articles/799454/)
 - Can we find an article on KPI (kernel page-table isolation)?
 - Risc-V bootup procedures vs. x86
-- Linker scripts in detail. [Link](https://mcyoung.xyz/2021/06/01/linker-script/)
+- Linker scripts in detail. [Link](https://mcyoung.xyz/2021/06/01/linker-script/) The [composite loader](https://github.com/gwsystems/composite/blob/main/src/kernel/include/shared/elf_loader.h), which assumes the [linker script](https://github.com/gwsystems/composite/blob/main/src/components/implementation/comp_x86_64.ld) has generated a two-program-header binary.
 - Detailed [architectural summary of Intel's Sandy Bridge](https://chipsandcheese.com/2023/08/04/sandy-bridge-setting-intels-modern-foundation/)
 
 # Scheduled Discussions
