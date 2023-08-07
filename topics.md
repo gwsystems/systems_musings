@@ -23,6 +23,7 @@
 - [Core scheduling to avoid SMT/hyperthreading sidechannels](https://lwn.net/Articles/780703/) and [potential uses](https://lwn.net/Articles/799454/)
 - Can we find an article on KPI (kernel page-table isolation)?
 - Risc-V bootup procedures vs. x86
+- Linker scripts in detail. [Link](https://mcyoung.xyz/2021/06/01/linker-script/)
 - Detailed [architectural summary of Intel's Sandy Bridge](https://chipsandcheese.com/2023/08/04/sandy-bridge-setting-intels-modern-foundation/)
 
 # Scheduled Discussions
