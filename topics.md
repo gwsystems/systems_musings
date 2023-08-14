@@ -38,12 +38,6 @@
   - [Epoll is fundamentally broken part 2/2](https://idea.popcount.org/2017-03-20-epoll-is-fundamentally-broken-22/)
   - [The method to epoll’s madness](https://copyconstruct.medium.com/the-method-to-epolls-madness-d9d2d6378642)
 
-- uioring
-
-  - [Updated pdf documentation](https://kernel.dk/io_uring.pdf)
-  - [Ringing in a new asynchronous I/O API](https://lwn.net/Articles/776703/)
-  - [Async spawn using io_uring](https://lwn.net/Articles/908268/) (ignore process creation maybe for now, read the following instead?)
-    
 - [Open vs. closed workload generators](https://brooker.co.za/blog/2023/05/10/open-closed.html)
 
 # Index of LWN articles
@@ -52,6 +46,12 @@ See the great [index](https://lwn.net/Kernel/Index/) of all of the LWN kernel ar
 Makes it easier to browse through them to find whatever you're interested in.
 
 # Topics we've discussed (but can revisit)
+
+- uioring
+
+  - [Updated pdf documentation](https://kernel.dk/io_uring.pdf)
+  - [Ringing in a new asynchronous I/O API](https://lwn.net/Articles/776703/)
+  - [Async spawn using io_uring](https://lwn.net/Articles/908268/) (ignore process creation maybe for now, read the following instead?)
 
 - Elf [relocations](https://intezer.com/blog/malware-analysis/executable-and-linkable-format-101-part-3-relocations/)
 - x86_64 [code optimizations, exception handling, and calling conventions](https://codemachine.com/articles/x64_deep_dive.html)
