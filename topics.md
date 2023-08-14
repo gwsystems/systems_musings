@@ -31,6 +31,13 @@
   
 # Scheduled Discussions
 
+- [epoll](https://man7.org/linux/man-pages/man7/epoll.7.html)
+
+  - [Async IO on Linux: select, poll, and epoll](https://jvns.ca/blog/2017/06/03/async-io-on-linux--select--poll--and-epoll/)
+  - [Epoll is fundamentally broken part 1/2](https://idea.popcount.org/2017-02-20-epoll-is-fundamentally-broken-12/)
+  - [Epoll is fundamentally broken part 2/2](https://idea.popcount.org/2017-03-20-epoll-is-fundamentally-broken-22/)
+  - [The method to epoll’s madness](https://copyconstruct.medium.com/the-method-to-epolls-madness-d9d2d6378642)
+
 - uioring
 
   - [Updated pdf documentation](https://kernel.dk/io_uring.pdf)
