@@ -31,7 +31,12 @@
   
 # Scheduled Discussions
 
-- [Async spawn using io_uring](https://lwn.net/Articles/908268/) (ignore process creation maybe for now, read the following instead?)  [Ringing in a new asynchronous I/O API](https://lwn.net/Articles/776703/) 
+- uioring
+
+  - [Updated pdf documentation](https://kernel.dk/io_uring.pdf)
+  - [Ringing in a new asynchronous I/O API](https://lwn.net/Articles/776703/)
+  - [Async spawn using io_uring](https://lwn.net/Articles/908268/) (ignore process creation maybe for now, read the following instead?)
+    
 - [Open vs. closed workload generators](https://brooker.co.za/blog/2023/05/10/open-closed.html)
 
 # Index of LWN articles
