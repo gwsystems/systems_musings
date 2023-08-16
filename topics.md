@@ -1,3 +1,17 @@
+# Scheduled Discussions
+
+We'll discuss the first time on this list in the next meeting. 
+Make sure to scan the articles, and come with questions.
+
+- [epoll](https://man7.org/linux/man-pages/man7/epoll.7.html)
+
+  - [Async IO on Linux: select, poll, and epoll](https://jvns.ca/blog/2017/06/03/async-io-on-linux--select--poll--and-epoll/)
+  - [Epoll is fundamentally broken part 1/2](https://idea.popcount.org/2017-02-20-epoll-is-fundamentally-broken-12/)
+  - [Epoll is fundamentally broken part 2/2](https://idea.popcount.org/2017-03-20-epoll-is-fundamentally-broken-22/)
+  - [The method to epoll’s madness](https://copyconstruct.medium.com/the-method-to-epolls-madness-d9d2d6378642)
+
+- [Open vs. closed workload generators](https://brooker.co.za/blog/2023/05/10/open-closed.html)
+
 # List of Potential Topics for Musing
 
 - Understanding [bugs in embedded systems](https://dl.acm.org/doi/10.1145/3597926.3598140)
@@ -28,17 +42,6 @@
 - Attempts to make it so that [bpf can execute unpriv](https://lwn.net/Articles/935195/) code.
 - [Scheduling](https://lwn.net/Articles/935180/): pluggable bpf scheduling, priority inheritance through proxy execution, and different timer structures
 - Page management and tracking in Linux. [struct page](https://lwn.net/Articles/937839/) (vs. [Composite's](https://github.com/gwsystems/composite/blob/v4/src/kernel/include/resources.h#L10-L17)), generalizing into [folios](https://lwn.net/Articles/849538/), and general page [management](https://lwn.net/Articles/619514/)
-  
-# Scheduled Discussions
-
-- [epoll](https://man7.org/linux/man-pages/man7/epoll.7.html)
-
-  - [Async IO on Linux: select, poll, and epoll](https://jvns.ca/blog/2017/06/03/async-io-on-linux--select--poll--and-epoll/)
-  - [Epoll is fundamentally broken part 1/2](https://idea.popcount.org/2017-02-20-epoll-is-fundamentally-broken-12/)
-  - [Epoll is fundamentally broken part 2/2](https://idea.popcount.org/2017-03-20-epoll-is-fundamentally-broken-22/)
-  - [The method to epoll’s madness](https://copyconstruct.medium.com/the-method-to-epolls-madness-d9d2d6378642)
-
-- [Open vs. closed workload generators](https://brooker.co.za/blog/2023/05/10/open-closed.html)
 
 # Index of LWN articles
 
