@@ -3,7 +3,6 @@
 We'll discuss the first time on this list in the next meeting. 
 Make sure to scan the articles, and come with questions.
 
-- [Open vs. closed workload generators](https://brooker.co.za/blog/2023/05/10/open-closed.html)
 - Linker scripts in detail. [Link](https://mcyoung.xyz/2021/06/01/linker-script/) The [composite loader](https://github.com/gwsystems/composite/blob/main/src/kernel/include/shared/elf_loader.h), which assumes the [linker script](https://github.com/gwsystems/composite/blob/main/src/components/implementation/comp_x86_64.ld) has generated a two-program-header binary.
 
 # List of Potential Topics for Musing
@@ -45,6 +44,7 @@ Makes it easier to browse through them to find whatever you're interested in.
 
 # Topics we've discussed (but can revisit)
 
+- [Open vs. closed workload generators](https://brooker.co.za/blog/2023/05/10/open-closed.html)
 - [epoll](https://man7.org/linux/man-pages/man7/epoll.7.html)
 
   - [Async IO on Linux: select, poll, and epoll](https://jvns.ca/blog/2017/06/03/async-io-on-linux--select--poll--and-epoll/)
