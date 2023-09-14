@@ -3,7 +3,8 @@
 We'll discuss the first time on this list in the next meeting. 
 Make sure to scan the articles, and come with questions.
 
-- Linker scripts in detail. [Link](https://mcyoung.xyz/2021/06/01/linker-script/) The [composite loader](https://github.com/gwsystems/composite/blob/main/src/kernel/include/shared/elf_loader.h), which assumes the [linker script](https://github.com/gwsystems/composite/blob/main/src/components/implementation/comp_x86_64.ld) has generated a two-program-header binary.
+- [Latency management in the scheduler (old)](https://lwn.net/Articles/404993/)
+
 
 # List of Potential Topics for Musing
 
@@ -26,7 +27,6 @@ Make sure to scan the articles, and come with questions.
 - [1½ Topics: realtime throttling and user-space adaptive spinning](https://lwn.net/Articles/931789/)
 - [User-space control of memory management](https://lwn.net/Articles/931662/)
 - [Complexities of directed yield](https://lwn.net/Articles/419961/)
-- [Latency management in the scheduler (old)](https://lwn.net/Articles/404993/)
 - [Core scheduling to avoid SMT/hyperthreading sidechannels](https://lwn.net/Articles/780703/) and [potential uses](https://lwn.net/Articles/799454/)
 - Can we find an article on KPI (kernel page-table isolation)?
 - Risc-V bootup procedures vs. x86
@@ -46,6 +46,8 @@ See the great [index](https://lwn.net/Kernel/Index/) of all of the LWN kernel ar
 Makes it easier to browse through them to find whatever you're interested in.
 
 # Topics we've discussed (but can revisit)
+
+- [9/12/2023] Linker scripts in detail. [Link](https://mcyoung.xyz/2021/06/01/linker-script/) The [composite loader](https://github.com/gwsystems/composite/blob/main/src/kernel/include/shared/elf_loader.h), which assumes the [linker script](https://github.com/gwsystems/composite/blob/main/src/components/implementation/comp_x86_64.ld) has generated a two-program-header binary.
 
 - [Open vs. closed workload generators](https://brooker.co.za/blog/2023/05/10/open-closed.html)
 - [epoll](https://man7.org/linux/man-pages/man7/epoll.7.html)
