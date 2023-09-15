@@ -39,6 +39,7 @@ Make sure to scan the articles, and come with questions.
 - [Mimalloc](https://www.microsoft.com/en-us/research/uploads/prod/2019/06/mimalloc-tr-v1.pdf), [TCmalloc](https://goog-perftools.sourceforge.net/doc/tcmalloc.html), [jemalloc](https://engineering.fb.com/2011/01/03/core-data/scalable-memory-allocation-using-jemalloc/)
 - [Linux in mixed-criticality systems](https://lwn.net/Articles/774217/),[A discussion on Linux in space](https://lwn.net/Articles/938779/)
 - [Challenges for KernelCI](https://lwn.net/Articles/939538/)
+- All things [cgroups](https://lwn.net/Kernel/Index/#Control_groups-LWNs_guide_to)...this would likely take a couple of weeks.
 
 # Index of LWN articles
 
