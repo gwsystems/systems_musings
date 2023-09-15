@@ -4,12 +4,13 @@ We'll discuss the first time on this list in the next meeting.
 Make sure to scan the articles, and come with questions.
 
 - [Latency management in the scheduler (old)](https://lwn.net/Articles/404993/)
+- [Deep dive on how to think about performance.](https://docs.google.com/presentation/d/1wOT5kOWkQybVTHzB7uLXpU39ctYzXpOs2xVyD4zuYXY/edit#slide=id.g809d36a3fc4b213_287 ) (Add more links)
 
 
 # List of Potential Topics for Musing
 
 - Understanding [bugs in embedded systems](https://dl.acm.org/doi/10.1145/3597926.3598140)
-- [Deep dive on how to think about performance](https://docs.google.com/presentation/d/1wOT5kOWkQybVTHzB7uLXpU39ctYzXpOs2xVyD4zuYXY/edit#slide=id.g809d36a3fc4b213_287 )
+
 - [Zephyr: a modular OS for resource-constrained devices](https://lwn.net/Articles/925924/)
 - [Heuristics for software-interrupt processing](https://lwn.net/Articles/925540/)
 - [An EEVDF CPU scheduler for Linux](https://lwn.net/Articles/925371/)
