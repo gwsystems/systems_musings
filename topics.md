@@ -9,8 +9,8 @@ Make sure to scan the articles, and come with questions.
 
 # List of Potential Topics for Musing
 
+- Latencies and debugging latencies in the [linux scheduler](https://bristot.me/linux-scheduling-latency-debug-and-analysis/)
 - Understanding [bugs in embedded systems](https://dl.acm.org/doi/10.1145/3597926.3598140)
-
 - [Zephyr: a modular OS for resource-constrained devices](https://lwn.net/Articles/925924/)
 - [Heuristics for software-interrupt processing](https://lwn.net/Articles/925540/)
 - [An EEVDF CPU scheduler for Linux](https://lwn.net/Articles/925371/)
