@@ -3,7 +3,6 @@
 We'll discuss the first time on this list in the next meeting. 
 Make sure to scan the articles, and come with questions.
 
-- [Latency management in the scheduler (old)](https://lwn.net/Articles/404993/)
 - [Deep dive on how to think about performance.](https://docs.google.com/presentation/d/1wOT5kOWkQybVTHzB7uLXpU39ctYzXpOs2xVyD4zuYXY/edit#slide=id.g809d36a3fc4b213_287 ) (Add more links)
 
 
@@ -50,6 +49,7 @@ Makes it easier to browse through them to find whatever you're interested in.
 
 # Topics we've discussed (but can revisit)
 
+- [Latency management in the scheduler (old)](https://lwn.net/Articles/404993/)
 - [9/12/2023] Linker scripts in detail. [Link](https://mcyoung.xyz/2021/06/01/linker-script/) The [composite loader](https://github.com/gwsystems/composite/blob/main/src/kernel/include/shared/elf_loader.h), which assumes the [linker script](https://github.com/gwsystems/composite/blob/main/src/components/implementation/comp_x86_64.ld) has generated a two-program-header binary.
 
 - [Open vs. closed workload generators](https://brooker.co.za/blog/2023/05/10/open-closed.html)
