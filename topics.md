@@ -8,6 +8,7 @@ Make sure to scan the articles, and come with questions.
 
 # List of Potential Topics for Musing
 
+- Performing customizable static analysis on system code with [semgrep](https://semgrep.dev/blog/2021/semgrep-a-static-analysis-journey/) (previously [Coccinelle](https://lwn.net/Articles/698724/), which has long been used in the Linux kernel).
 - Making a [micro-Linux distribution](https://popovicu.com/posts/making-a-micro-linux-distro/) (similar to [Linux from Scratch](https://www.linuxfromscratch.org/))
 - Latencies and debugging latencies in the [linux scheduler](https://bristot.me/linux-scheduling-latency-debug-and-analysis/)
 - Understanding [bugs in embedded systems](https://dl.acm.org/doi/10.1145/3597926.3598140)
