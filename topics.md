@@ -42,6 +42,7 @@ Add more links.
 - [Linux in mixed-criticality systems](https://lwn.net/Articles/774217/),[A discussion on Linux in space](https://lwn.net/Articles/938779/)
 - [Challenges for KernelCI](https://lwn.net/Articles/939538/)
 - All things [cgroups](https://lwn.net/Kernel/Index/#Control_groups-LWNs_guide_to)...this would likely take a couple of weeks.
+- [How Garbage Collection works in Java? Explained]([https://lwn.net/Kernel/Index/#Control_groups-LWNs_guide_to](https://javarevisited.blogspot.com/2011/04/garbage-collection-in-java.html)
 
 # Index of LWN articles
 
