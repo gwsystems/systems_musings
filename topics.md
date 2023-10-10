@@ -3,7 +3,7 @@
 We'll discuss the first time on this list in the next meeting. 
 Make sure to scan the articles, and come with questions.
 - Understanding processor pipeline [dependencies](https://johnnysswlab.com/when-an-instruction-depends-on-the-previous-instruction-depends-on-the-previous-instructions-long-instruction-dependency-chains-and-performance/), and how to hide memory access latencies [using instruction-level parallelism on out-of-order machines](https://johnnysswlab.com/instruction-level-parallelism-in-practice-speeding-up-memory-bound-programs-with-low-ilp/)
-- Zenbleed [https://lock.cmpxchg8b.com/zenbleed.html] (Add more links)
+- Zenbleed https://lock.cmpxchg8b.com/zenbleed.html (Please add more links)
 
 
 Add more links.
