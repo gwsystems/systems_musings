@@ -2,9 +2,8 @@
 
 We'll discuss the first time on this list in the next meeting. 
 Make sure to scan the articles, and come with questions.
-- Understanding processor pipeline [dependencies](https://johnnysswlab.com/when-an-instruction-depends-on-the-previous-instruction-depends-on-the-previous-instructions-long-instruction-dependency-chains-and-performance/), and how to hide memory access latencies [using instruction-level parallelism on out-of-order machines](https://johnnysswlab.com/instruction-level-parallelism-in-practice-speeding-up-memory-bound-programs-with-low-ilp/)
-- Zenbleed https://lock.cmpxchg8b.com/zenbleed.html (Please add more links)
 
+- We need a topic!!!
 
 Add more links.
 
@@ -22,7 +21,7 @@ Add more links.
 - Parallelism in [javascript](https://webkit.org/blog/7846/concurrent-javascript-it-can-work/)
 - User-level synchronization in a [browser, including the popular parking lot mechanisms](https://webkit.org/blog/6161/locking-in-webkit/)
 - C [cleanup attributes](https://lwn.net/Articles/934679/) - should we use a non-standard extension?
-- [Addressing priority inversion with proxy execution](https://lwn.net/Articles/934114/)
+- [Addressing priority inversion with proxy exechttps://us02web.zoom.us/j/82762395983?pwd=QTQ5bWpaVytaMHFkVXBUV0c5MmVwdz09#successution](https://lwn.net/Articles/934114/)
 - [Deadline servers as a realtime throttling replacement](https://lwn.net/Articles/934415/)
 - [Optimizing single-owner memory](https://lwn.net/Articles/932391/)
 - [Mitigating vmap lock contention](https://lwn.net/Articles/932396/) and [Improving page-fault scalability](https://lwn.net/Articles/932298/)
@@ -52,6 +51,8 @@ Makes it easier to browse through them to find whatever you're interested in.
 
 # Topics we've discussed (but can revisit)
 
+- Understanding processor pipeline [dependencies](https://johnnysswlab.com/when-an-instruction-depends-on-the-previous-instruction-depends-on-the-previous-instructions-long-instruction-dependency-chains-and-performance/), and how to hide memory access latencies [using instruction-level parallelism on out-of-order machines](https://johnnysswlab.com/instruction-level-parallelism-in-practice-speeding-up-memory-bound-programs-with-low-ilp/)
+- Zenbleed https://lock.cmpxchg8b.com/zenbleed.html (Please add more links)
 - [Latency management in the scheduler (old)](https://lwn.net/Articles/404993/)
 - [9/12/2023] Linker scripts in detail. [Link](https://mcyoung.xyz/2021/06/01/linker-script/) The [composite loader](https://github.com/gwsystems/composite/blob/main/src/kernel/include/shared/elf_loader.h), which assumes the [linker script](https://github.com/gwsystems/composite/blob/main/src/components/implementation/comp_x86_64.ld) has generated a two-program-header binary.
 
