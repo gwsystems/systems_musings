@@ -3,7 +3,8 @@
 We'll discuss the first time on this list in the next meeting. 
 Make sure to scan the articles, and come with questions.
 
-- We need a topic!!!
+- Detailed [architectural summary of Intel's Sandy Bridge](https://chipsandcheese.com/2023/08/04/sandy-bridge-setting-intels-modern-foundation/)
+- [Core scheduling to avoid SMT/hyperthreading sidechannels](https://lwn.net/Articles/780703/) and [potential uses](https://lwn.net/Articles/799454/)
 
 Add more links.
 
@@ -13,9 +14,9 @@ Add more links.
 - Making a [micro-Linux distribution](https://popovicu.com/posts/making-a-micro-linux-distro/) (similar to [Linux from Scratch](https://www.linuxfromscratch.org/))
 - Latencies and debugging latencies in the [linux scheduler](https://bristot.me/linux-scheduling-latency-debug-and-analysis/)
 - Understanding [bugs in embedded systems](https://dl.acm.org/doi/10.1145/3597926.3598140)
-- [Zephyr: a modular OS for resource-constrained devices](https://lwn.net/Articles/925924/)
 - [Heuristics for software-interrupt processing](https://lwn.net/Articles/925540/)
 - [An EEVDF CPU scheduler for Linux](https://lwn.net/Articles/925371/)
+- [Zephyr: a modular OS for resource-constrained devices](https://lwn.net/Articles/925924/)
 - Architecture of modern LLM infrastructures that require singificant context (for example, [this](https://about.sourcegraph.com/blog/cody-is-cheating), and [this](https://about.sourcegraph.com/whitepaper/cody-context-architecture.pdf))
 - Hiding memory access latency on [in-order architectures](https://johnnysswlab.com/hiding-memory-latency-with-in-order-cpu-cores-or-how-compilers-optimize-your-code/)
 - Parallelism in [javascript](https://webkit.org/blog/7846/concurrent-javascript-it-can-work/)
@@ -29,10 +30,8 @@ Add more links.
 - [1½ Topics: realtime throttling and user-space adaptive spinning](https://lwn.net/Articles/931789/)
 - [User-space control of memory management](https://lwn.net/Articles/931662/)
 - [Complexities of directed yield](https://lwn.net/Articles/419961/)
-- [Core scheduling to avoid SMT/hyperthreading sidechannels](https://lwn.net/Articles/780703/) and [potential uses](https://lwn.net/Articles/799454/)
 - Can we find an article on KPI (kernel page-table isolation)?
 - Risc-V bootup procedures vs. x86
-- Detailed [architectural summary of Intel's Sandy Bridge](https://chipsandcheese.com/2023/08/04/sandy-bridge-setting-intels-modern-foundation/)
 - Attempts to make it so that [bpf can execute unpriv](https://lwn.net/Articles/935195/) code.
 - [Scheduling](https://lwn.net/Articles/935180/): pluggable bpf scheduling, priority inheritance through proxy execution, and different timer structures
 - Page management and tracking in Linux. [struct page](https://lwn.net/Articles/937839/) (vs. [Composite's](https://github.com/gwsystems/composite/blob/v4/src/kernel/include/resources.h#L10-L17)), generalizing into [folios](https://lwn.net/Articles/849538/), and general page [management](https://lwn.net/Articles/619514/)
