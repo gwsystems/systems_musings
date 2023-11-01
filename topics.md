@@ -10,6 +10,15 @@ Add more links.
 
 # List of Potential Topics for Musing
 
+- Yet antoher attempt to add [security to BPF](https://lwn.net/Articles/947173/) -- fundamental issues here around how to add security to a large surface API
+- Progress on removing the [GIL in Python](https://lwn.net/Articles/947138/) -- the interesting part here is the [concurrency/synchronization](https://peps.python.org/pep-0703/#reference-counting)
+- Adaptive, user-level spinlocks and [restartable sequences](https://lwn.net/Articles/944895/) for user-kernel communication (we used to have these in Composite!, and there is potential research here)
+
+    - More on [ras here](https://lwn.net/Articles/946870/) and [here](https://lwn.net/Articles/697979/)
+      
+- Updates and complexities in [Linux kernel preemption](https://lwn.net/Articles/944686/) -- or why there is cooperative yielding in the kernel
+- [pidfd](https://lwn.net/Articles/794707/) and [race-free process creation](https://lwn.net/Articles/943022/)
+- [io_ring vulnerability and VM attestation](https://lwn.net/Articles/943239/)
 - Performing customizable static analysis on system code with [semgrep](https://semgrep.dev/blog/2021/semgrep-a-static-analysis-journey/) (previously [Coccinelle](https://lwn.net/Articles/698724/), which has long been used in the Linux kernel).
 - Making a [micro-Linux distribution](https://popovicu.com/posts/making-a-micro-linux-distro/) (similar to [Linux from Scratch](https://www.linuxfromscratch.org/))
 - Latencies and debugging latencies in the [linux scheduler](https://bristot.me/linux-scheduling-latency-debug-and-analysis/)
