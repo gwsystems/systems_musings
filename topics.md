@@ -10,6 +10,9 @@ Add more links.
 
 # List of Potential Topics for Musing
 
+- KVM [hello world](https://github.com/dpw/kvm-hello-world)
+- KVM simple [host](https://github.com/sysprog21/kvm-host) (maybe discussed after hello world?)
+- Similarly, KIM VMM [wiser](https://github.com/flouthoc/wiser)
 - Yet antoher attempt to add [security to BPF](https://lwn.net/Articles/947173/) -- fundamental issues here around how to add security to a large surface API
 - Progress on removing the [GIL in Python](https://lwn.net/Articles/947138/) -- the interesting part here is the [concurrency/synchronization](https://peps.python.org/pep-0703/#reference-counting)
 - Adaptive, user-level spinlocks and [restartable sequences](https://lwn.net/Articles/944895/) for user-kernel communication (we used to have these in Composite!, and there is potential research here)
