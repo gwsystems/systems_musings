@@ -3,13 +3,13 @@
 We'll discuss the first time on this list in the next meeting. 
 Make sure to scan the articles, and come with questions.
 
-- Detailed [architectural summary of Intel's Sandy Bridge](https://chipsandcheese.com/2023/08/04/sandy-bridge-setting-intels-modern-foundation/)
 - [Core scheduling to avoid SMT/hyperthreading sidechannels](https://lwn.net/Articles/780703/) and [potential uses](https://lwn.net/Articles/799454/)
 
 Add more links.
 
 # List of Potential Topics for Musing
 
+- [GraalOS](https://blogs.oracle.com/java/post/introducing-graalos) - a high performance serverless Java-based application deployment technology by Oracle. More [here](https://blogs.oracle.com/cloud-infrastructure/post/ultrafast-serverless-functions-powered-by-graalos). See [graal.cloud/graalos/](https://graal.cloud/graalos/).
 - KVM [hello world](https://github.com/dpw/kvm-hello-world)
 - KVM simple [host](https://github.com/sysprog21/kvm-host) (maybe discussed after hello world?)
 - Similarly, KIM VMM [wiser](https://github.com/flouthoc/wiser)
@@ -61,7 +61,7 @@ See the great [index](https://lwn.net/Kernel/Index/) of all of the LWN kernel ar
 Makes it easier to browse through them to find whatever you're interested in.
 
 # Topics we've discussed (but can revisit)
-
+- [10/31/2023] Detailed [architectural summary of Intel's Sandy Bridge](https://chipsandcheese.com/2023/08/04/sandy-bridge-setting-intels-modern-foundation/)
 - Understanding processor pipeline [dependencies](https://johnnysswlab.com/when-an-instruction-depends-on-the-previous-instruction-depends-on-the-previous-instructions-long-instruction-dependency-chains-and-performance/), and how to hide memory access latencies [using instruction-level parallelism on out-of-order machines](https://johnnysswlab.com/instruction-level-parallelism-in-practice-speeding-up-memory-bound-programs-with-low-ilp/)
 - Zenbleed https://lock.cmpxchg8b.com/zenbleed.html (Please add more links)
 - [Latency management in the scheduler (old)](https://lwn.net/Articles/404993/)
