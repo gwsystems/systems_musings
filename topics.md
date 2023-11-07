@@ -2,16 +2,14 @@
 
 We'll discuss the first time on this list in the next meeting. 
 Make sure to scan the articles, and come with questions.
-
-- [Core scheduling to avoid SMT/hyperthreading sidechannels](https://lwn.net/Articles/780703/), current [status and code](https://lwn.net/Articles/861251/) and [potential uses](https://lwn.net/Articles/799454/)
+- KVM [hello world](https://github.com/dpw/kvm-hello-world) (I haven't read the article but maybe we can combine these two into one?)
+- KVM simple [host](https://github.com/sysprog21/kvm-host) 
 
 Add more links.
 
 # List of Potential Topics for Musing
 
 - [GraalOS](https://blogs.oracle.com/java/post/introducing-graalos) - a high performance serverless Java-based application deployment technology by Oracle. More [here](https://blogs.oracle.com/cloud-infrastructure/post/ultrafast-serverless-functions-powered-by-graalos). See [graal.cloud/graalos/](https://graal.cloud/graalos/).
-- KVM [hello world](https://github.com/dpw/kvm-hello-world)
-- KVM simple [host](https://github.com/sysprog21/kvm-host) (maybe discussed after hello world?)
 - Similarly, KIM VMM [wiser](https://github.com/flouthoc/wiser)
 - Yet antoher attempt to add [security to BPF](https://lwn.net/Articles/947173/) -- fundamental issues here around how to add security to a large surface API
 - Progress on removing the [GIL in Python](https://lwn.net/Articles/947138/) -- the interesting part here is the [concurrency/synchronization](https://peps.python.org/pep-0703/#reference-counting)
@@ -61,6 +59,7 @@ See the great [index](https://lwn.net/Kernel/Index/) of all of the LWN kernel ar
 Makes it easier to browse through them to find whatever you're interested in.
 
 # Topics we've discussed (but can revisit)
+- [11/7/23] [Core scheduling to avoid SMT/hyperthreading sidechannels](https://lwn.net/Articles/780703/), current [status and code](https://lwn.net/Articles/861251/) and [potential uses](https://lwn.net/Articles/799454/)
 - [10/31/2023] Detailed [architectural summary of Intel's Sandy Bridge](https://chipsandcheese.com/2023/08/04/sandy-bridge-setting-intels-modern-foundation/)
 - Understanding processor pipeline [dependencies](https://johnnysswlab.com/when-an-instruction-depends-on-the-previous-instruction-depends-on-the-previous-instructions-long-instruction-dependency-chains-and-performance/), and how to hide memory access latencies [using instruction-level parallelism on out-of-order machines](https://johnnysswlab.com/instruction-level-parallelism-in-practice-speeding-up-memory-bound-programs-with-low-ilp/)
 - Zenbleed https://lock.cmpxchg8b.com/zenbleed.html (Please add more links)
