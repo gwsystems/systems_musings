@@ -3,7 +3,7 @@
 We'll discuss the first time on this list in the next meeting. 
 Make sure to scan the articles, and come with questions.
 
-- [Core scheduling to avoid SMT/hyperthreading sidechannels](https://lwn.net/Articles/780703/) and [potential uses](https://lwn.net/Articles/799454/)
+- [Core scheduling to avoid SMT/hyperthreading sidechannels](https://lwn.net/Articles/780703/), current [status and code](https://lwn.net/Articles/861251/) and [potential uses](https://lwn.net/Articles/799454/)
 
 Add more links.
 
