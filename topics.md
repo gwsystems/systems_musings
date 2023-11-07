@@ -34,7 +34,7 @@ Add more links.
 - Parallelism in [javascript](https://webkit.org/blog/7846/concurrent-javascript-it-can-work/)
 - User-level synchronization in a [browser, including the popular parking lot mechanisms](https://webkit.org/blog/6161/locking-in-webkit/)
 - C [cleanup attributes](https://lwn.net/Articles/934679/) - should we use a non-standard extension?
-- [Addressing priority inversion with proxy exechttps://us02web.zoom.us/j/82762395983?pwd=QTQ5bWpaVytaMHFkVXBUV0c5MmVwdz09#successution](https://lwn.net/Articles/934114/)
+- [Addressing priority inversion with proxy execution](https://lwn.net/Articles/934114/)
 - [Deadline servers as a realtime throttling replacement](https://lwn.net/Articles/934415/)
 - [Optimizing single-owner memory](https://lwn.net/Articles/932391/)
 - [Mitigating vmap lock contention](https://lwn.net/Articles/932396/) and [Improving page-fault scalability](https://lwn.net/Articles/932298/)
