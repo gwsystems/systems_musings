@@ -9,6 +9,7 @@ Add more links.
 
 # List of Potential Topics for Musing
 
+- [Maple Trees](https://lwn.net/Articles/845507/) to track virtual address ranges including some background on how these ranges are tracked.
 - [GraalOS](https://blogs.oracle.com/java/post/introducing-graalos) - a high performance serverless Java-based application deployment technology by Oracle. More [here](https://blogs.oracle.com/cloud-infrastructure/post/ultrafast-serverless-functions-powered-by-graalos). See [graal.cloud/graalos/](https://graal.cloud/graalos/).
 - Similarly, KIM VMM [wiser](https://github.com/flouthoc/wiser)
 - Yet antoher attempt to add [security to BPF](https://lwn.net/Articles/947173/) -- fundamental issues here around how to add security to a large surface API
