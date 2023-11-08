@@ -9,6 +9,7 @@ Add more links.
 
 # List of Potential Topics for Musing
 
+- Linux kernel [preemption](https://lwn.net/Articles/831678/) [mode](https://lwn.net/Articles/944686/) [information](https://lwn.net/Articles/945422/) (and a current push to [unify](https://lore.kernel.org/lkml/20231107215742.363031-1-ankur.a.arora@oracle.com/))
 - [Maple Trees](https://lwn.net/Articles/845507/) to track virtual address ranges including some background on how these ranges are tracked.
 - [GraalOS](https://blogs.oracle.com/java/post/introducing-graalos) - a high performance serverless Java-based application deployment technology by Oracle. More [here](https://blogs.oracle.com/cloud-infrastructure/post/ultrafast-serverless-functions-powered-by-graalos). See [graal.cloud/graalos/](https://graal.cloud/graalos/).
 - Similarly, KIM VMM [wiser](https://github.com/flouthoc/wiser)
