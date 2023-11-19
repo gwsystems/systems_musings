@@ -9,6 +9,7 @@ Add more links.
 
 # List of Potential Topics for Musing
 
+- A light read about the [software-defined vehicle](https://spectrum.ieee.org/software-eating-car), but with many relevant research implications.
 - How are virtual drivers implemented using virtio? Interesting series of articles on virtio:
 
     - virtio [devices](https://www.redhat.com/en/blog/virtio-devices-and-drivers-overview-headjack-and-phone)
