@@ -3,14 +3,13 @@
 We'll discuss the first time on this list in the next meeting. 
 Make sure to scan the articles, and come with questions.
 
-- ...
+- Virtualization hardware details in [Extended Page-Tables (EPT)](https://revers.engineering/mmu-ept-technical-details/) and implementation [details](https://revers.engineering/mmu-virtualization-impl-p1/)
 
 Add more links.
 
 # List of Potential Topics for Musing
 
 - Survey of [IPC mechanisms](https://beej.us/guide/bgipc/html/) in UNIX
-- Virtualization hardware details in [Extended Page-Tables (EPT)](https://revers.engineering/mmu-ept-technical-details/) and implementation [details](https://revers.engineering/mmu-virtualization-impl-p1/)
 - BPF-defined [network devices](https://lwn.net/Articles/949960/)
 - [Deferred scheduling](https://lwn.net/Articles/948870/) of threads holding user-level spinlocks...we want something like this!
 - A light read about the [software-defined vehicle](https://spectrum.ieee.org/software-eating-car), but with many relevant research implications.
