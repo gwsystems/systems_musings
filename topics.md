@@ -9,6 +9,7 @@ Add more links.
 
 # List of Potential Topics for Musing
 
+- ELF [core dump](https://lief-project.github.io/doc/latest/tutorials/12_elf_coredump.html) format and parsing.
 - Survey of [IPC mechanisms](https://beej.us/guide/bgipc/html/) in UNIX
 - BPF-defined [network devices](https://lwn.net/Articles/949960/)
 - [Deferred scheduling](https://lwn.net/Articles/948870/) of threads holding user-level spinlocks...we want something like this!
