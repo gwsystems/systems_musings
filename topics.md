@@ -9,6 +9,7 @@ Add more links.
 
 # List of Potential Topics for Musing
 
+- using [CPU execution time jitter](https://lwn.net/Articles/642166/) to generate random numbers.
 - tracing tools [overview](https://thume.ca/2023/12/02/tracing-methods/)
 - ELF [core dump](https://lief-project.github.io/doc/latest/tutorials/12_elf_coredump.html) format and parsing.
 - Survey of [IPC mechanisms](https://beej.us/guide/bgipc/html/) in UNIX
