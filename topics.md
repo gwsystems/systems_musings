@@ -9,6 +9,7 @@ Add more links.
 
 # List of Potential Topics for Musing
 
+- understanding [speculative execution, and its interplay with memory](https://johnnysswlab.com/unexpected-ways-memory-subsystem-interacts-with-branch-prediction/).
 - using [CPU execution time jitter](https://lwn.net/Articles/642166/) to generate random numbers.
 - tracing tools [overview](https://thume.ca/2023/12/02/tracing-methods/)
 - ELF [core dump](https://lief-project.github.io/doc/latest/tutorials/12_elf_coredump.html) format and parsing.
