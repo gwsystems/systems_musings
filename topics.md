@@ -4,7 +4,7 @@ We'll discuss the first time on this list in the next meeting.
 Make sure to scan the articles, and come with questions.
 
 - Virtualization hardware details in [Extended Page-Tables (EPT)](https://revers.engineering/mmu-ept-technical-details/) and implementation [details](https://revers.engineering/mmu-virtualization-impl-p1/)
-
+- Shrinking the kernel with link-time garbage collection (https://lwn.net/Articles/741494/) 
 Add more links.
 
 # List of Potential Topics for Musing
