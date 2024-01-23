@@ -9,6 +9,7 @@ Add more links.
 
 # List of Potential Topics for Musing
 
+- [CPU Throttling: Unbundled](https://medium.com/@ramandumcs/cpu-throttling-unbundled-eae883e7e494)
 - generic [mechanism to handle priority inheritance](https://lwn.net/Articles/953438/)
 - understanding [speculative execution, and its interplay with memory](https://johnnysswlab.com/unexpected-ways-memory-subsystem-interacts-with-branch-prediction/).
 - using [CPU execution time jitter](https://lwn.net/Articles/642166/) to generate random numbers.
@@ -57,6 +58,7 @@ Add more links.
 - [1½ Topics: realtime throttling and user-space adaptive spinning](https://lwn.net/Articles/931789/)
 - [User-space control of memory management](https://lwn.net/Articles/931662/)
 - [Complexities of directed yield](https://lwn.net/Articles/419961/)
+- Control groups series by Neil Brown [cgroups](https://lwn.net/Articles/604609/)...this would likely take a couple of weeks.
 - Can we find an article on KPI (kernel page-table isolation)?
 - Risc-V bootup procedures vs. x86
 - Attempts to make it so that [bpf can execute unpriv](https://lwn.net/Articles/935195/) code.
@@ -67,10 +69,6 @@ Add more links.
 - [Mimalloc](https://www.microsoft.com/en-us/research/uploads/prod/2019/06/mimalloc-tr-v1.pdf), [TCmalloc](https://goog-perftools.sourceforge.net/doc/tcmalloc.html), [jemalloc](https://engineering.fb.com/2011/01/03/core-data/scalable-memory-allocation-using-jemalloc/)
 - [Linux in mixed-criticality systems](https://lwn.net/Articles/774217/),[A discussion on Linux in space](https://lwn.net/Articles/938779/)
 - [Challenges for KernelCI](https://lwn.net/Articles/939538/)
-- CPU Throttling: Unbundled [reservations](https://medium.com/@ramandumcs/cpu-throttling-unbundled-eae883e7e494)
-
-  - More on cgroups: Control groups series by Neil Brown [cgroups](https://lwn.net/Articles/604609/)...this would likely take a couple of weeks.
-
 - [How Garbage Collection works in Java? Explained](https://javarevisited.blogspot.com/2011/04/garbage-collection-in-java.html)
 
 # Index of LWN articles
