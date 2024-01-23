@@ -1,11 +1,10 @@
 # Scheduled Discussions
 
-We'll discuss the first time on this list in the next meeting. 
+We'll discuss the first topic on this list in the next meeting. 
 Make sure to scan the articles, and come with questions.
 
-- Virtualization hardware details in [Extended Page-Tables (EPT)](https://revers.engineering/mmu-ept-technical-details/) and implementation [details](https://revers.engineering/mmu-virtualization-impl-p1/)
 - Shrinking the kernel with link-time garbage collection (https://lwn.net/Articles/741494/)
-- 
+  
 Add more links.
 
 # List of Potential Topics for Musing
@@ -78,6 +77,7 @@ Makes it easier to browse through them to find whatever you're interested in.
 
 # Topics we've discussed (but can revisit)
 
+- Virtualization hardware details in [Extended Page-Tables (EPT)](https://revers.engineering/mmu-ept-technical-details/) and implementation [details](https://revers.engineering/mmu-virtualization-impl-p1/)
 - KVM [hello world](https://github.com/dpw/kvm-hello-world) (I haven't read the article but maybe we can combine these two into one?)
 - KVM simple [host](https://github.com/sysprog21/kvm-host) 
 - [11/7/23] [Core scheduling to avoid SMT/hyperthreading sidechannels](https://lwn.net/Articles/780703/), current [status and code](https://lwn.net/Articles/861251/) and [potential uses](https://lwn.net/Articles/799454/)
