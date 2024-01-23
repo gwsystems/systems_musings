@@ -67,7 +67,10 @@ Add more links.
 - [Mimalloc](https://www.microsoft.com/en-us/research/uploads/prod/2019/06/mimalloc-tr-v1.pdf), [TCmalloc](https://goog-perftools.sourceforge.net/doc/tcmalloc.html), [jemalloc](https://engineering.fb.com/2011/01/03/core-data/scalable-memory-allocation-using-jemalloc/)
 - [Linux in mixed-criticality systems](https://lwn.net/Articles/774217/),[A discussion on Linux in space](https://lwn.net/Articles/938779/)
 - [Challenges for KernelCI](https://lwn.net/Articles/939538/)
-- All things [cgroups](https://lwn.net/Kernel/Index/#Control_groups-LWNs_guide_to)...this would likely take a couple of weeks.
+- CPU Throttling: Unbundled [reservations](https://medium.com/@ramandumcs/cpu-throttling-unbundled-eae883e7e494)
+
+  - More on cgroups: Control groups series by Neil Brown [cgroups](https://lwn.net/Articles/604609/)...this would likely take a couple of weeks.
+
 - [How Garbage Collection works in Java? Explained](https://javarevisited.blogspot.com/2011/04/garbage-collection-in-java.html)
 
 # Index of LWN articles
