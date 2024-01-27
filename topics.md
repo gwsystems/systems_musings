@@ -4,6 +4,7 @@ We'll discuss the first topic on this list in the next meeting.
 Make sure to scan the articles, and come with questions.
 
 - Shrinking the kernel with link-time garbage collection (https://lwn.net/Articles/741494/)
+- tracing tools [overview](https://thume.ca/2023/12/02/tracing-methods/)
   
 Add more links.
 
@@ -13,7 +14,6 @@ Add more links.
 - generic [mechanism to handle priority inheritance](https://lwn.net/Articles/953438/)
 - understanding [speculative execution, and its interplay with memory](https://johnnysswlab.com/unexpected-ways-memory-subsystem-interacts-with-branch-prediction/).
 - using [CPU execution time jitter](https://lwn.net/Articles/642166/) to generate random numbers.
-- tracing tools [overview](https://thume.ca/2023/12/02/tracing-methods/)
 - ELF [core dump](https://lief-project.github.io/doc/latest/tutorials/12_elf_coredump.html) format and parsing.
 - Survey of [IPC mechanisms](https://beej.us/guide/bgipc/html/) in UNIX
 - BPF-defined [network devices](https://lwn.net/Articles/949960/)
