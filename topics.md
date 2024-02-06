@@ -3,8 +3,8 @@
 We'll discuss the first topic on this list in the next meeting. 
 Make sure to scan the articles, and come with questions.
 
-- Shrinking the kernel with link-time garbage collection (https://lwn.net/Articles/741494/)
 - tracing tools [overview](https://thume.ca/2023/12/02/tracing-methods/)
+- Control groups series by Neil Brown [cgroups](https://lwn.net/Articles/604609/)...this would likely take a couple of weeks.
   
 Add more links.
 
@@ -58,7 +58,6 @@ Add more links.
 - [1½ Topics: realtime throttling and user-space adaptive spinning](https://lwn.net/Articles/931789/)
 - [User-space control of memory management](https://lwn.net/Articles/931662/)
 - [Complexities of directed yield](https://lwn.net/Articles/419961/)
-- Control groups series by Neil Brown [cgroups](https://lwn.net/Articles/604609/)...this would likely take a couple of weeks.
 - Can we find an article on KPI (kernel page-table isolation)?
 - Risc-V bootup procedures vs. x86
 - Attempts to make it so that [bpf can execute unpriv](https://lwn.net/Articles/935195/) code.
