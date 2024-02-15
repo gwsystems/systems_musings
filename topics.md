@@ -2,9 +2,7 @@
 
 We'll discuss the first topic on this list in the next meeting. 
 Make sure to scan the articles, and come with questions.
-
-- tracing tools [overview](https://thume.ca/2023/12/02/tracing-methods/)
-- Control groups series by Neil Brown [cgroups](https://lwn.net/Articles/604609/)...this would likely take a couple of weeks.
+- Control groups series by Neil Brown [cgroups](https://lwn.net/Articles/604609/) (Read part 1-2)...this would likely take a couple of weeks.
   
 Add more links.
 
@@ -77,6 +75,7 @@ Makes it easier to browse through them to find whatever you're interested in.
 
 # Topics we've discussed (but can revisit)
 
+- tracing tools [overview](https://thume.ca/2023/12/02/tracing-methods/)
 - Virtualization hardware details in [Extended Page-Tables (EPT)](https://revers.engineering/mmu-ept-technical-details/) and implementation [details](https://revers.engineering/mmu-virtualization-impl-p1/)
 - KVM [hello world](https://github.com/dpw/kvm-hello-world) (I haven't read the article but maybe we can combine these two into one?)
 - KVM simple [host](https://github.com/sysprog21/kvm-host) 
