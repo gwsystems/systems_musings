@@ -2,7 +2,7 @@
 
 We'll discuss the first topic on this list in the next meeting. 
 Make sure to scan the articles, and come with questions.
-- Control groups series by Neil Brown [cgroups](https://lwn.net/Articles/604609/) (Read part 1-2)...this would likely take a couple of weeks.
+- Control groups series by Neil Brown [cgroups](https://lwn.net/Articles/604609/). Let start with parts [1](https://lwn.net/Articles/603762/), [2](https://lwn.net/Articles/604413/), and [3](https://lwn.net/Articles/605039/).
   
 Add more links.
 
