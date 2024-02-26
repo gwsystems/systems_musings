@@ -5,6 +5,7 @@ Make sure to scan the articles, and come with questions.
 - Control groups series by Neil Brown [cgroups](https://lwn.net/Articles/604609/). Let start with parts [1](https://lwn.net/Articles/603762/), [2](https://lwn.net/Articles/604413/), and [3](https://lwn.net/Articles/605039/).
 - Cgroups discussion continues from CPU related articles -> [part 4](https://lwn.net/Articles/606004/), [CFS group scheduling](https://lwn.net/Articles/240474/), [CFS bandwidth control](https://lwn.net/Articles/428230/), [The burstable CFS bandwidth controller](https://lwn.net/Articles/844976/)
   - A nice medium post that summarizes CPU throttling [CPU Throttling: Unbundled](https://medium.com/@ramandumcs/cpu-throttling-unbundled-eae883e7e494)
+  - Progress on removing the [GIL in Python](https://lwn.net/Articles/947138/) -- the interesting part here is the [concurrency/synchronization](https://peps.python.org/pep-0703/#reference-counting)
   
 Add more links.
 
@@ -26,10 +27,9 @@ Add more links.
 
 - Linux kernel [preemption](https://lwn.net/Articles/831678/) [mode](https://lwn.net/Articles/944686/) [information](https://lwn.net/Articles/945422/) (and a current push to [unify](https://lore.kernel.org/lkml/20231107215742.363031-1-ankur.a.arora@oracle.com/))
 - [Maple Trees](https://lwn.net/Articles/845507/) to track virtual address ranges including some background on how these ranges are tracked.
-- [GraalOS](https://blogs.oracle.com/java/post/introducing-graalos) - a high performance serverless Java-based application deployment technology by Oracle. More [here](https://blogs.oracle.com/cloud-infrastructure/post/ultrafast-serverless-functions-powered-by-graalos). See [graal.cloud/graalos/](https://graal.cloud/graalos/).
+- [GraalOS](https://blogs.oracle.com/java/post/introducing-graalos) - a high-performance serverless Java-based application deployment technology by Oracle. More [here](https://blogs.oracle.com/cloud-infrastructure/post/ultrafast-serverless-functions-powered-by-graalos). See [graal.cloud/graalos/](https://graal.cloud/graalos/).
 - Similarly, KIM VMM [wiser](https://github.com/flouthoc/wiser)
-- Yet antoher attempt to add [security to BPF](https://lwn.net/Articles/947173/) -- fundamental issues here around how to add security to a large surface API
-- Progress on removing the [GIL in Python](https://lwn.net/Articles/947138/) -- the interesting part here is the [concurrency/synchronization](https://peps.python.org/pep-0703/#reference-counting)
+- Yet another attempt to add [security to BPF](https://lwn.net/Articles/947173/) -- fundamental issues here around how to add security to a large surface API
 - Adaptive, user-level spinlocks and [restartable sequences](https://lwn.net/Articles/944895/) for user-kernel communication (we used to have these in Composite!, and there is potential research here)
 
     - More on [ras here](https://lwn.net/Articles/946870/) and [here](https://lwn.net/Articles/697979/)
