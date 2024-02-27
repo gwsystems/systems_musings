@@ -2,10 +2,8 @@
 
 We'll discuss the first topic on this list in the next meeting. 
 Make sure to scan the articles, and come with questions.
-- Control groups series by Neil Brown [cgroups](https://lwn.net/Articles/604609/). Let start with parts [1](https://lwn.net/Articles/603762/), [2](https://lwn.net/Articles/604413/), and [3](https://lwn.net/Articles/605039/).
-- Cgroups discussion continues from CPU related articles -> [part 4](https://lwn.net/Articles/606004/), [CFS group scheduling](https://lwn.net/Articles/240474/), [CFS bandwidth control](https://lwn.net/Articles/428230/), [The burstable CFS bandwidth controller](https://lwn.net/Articles/844976/)
-  - A nice medium post that summarizes CPU throttling [CPU Throttling: Unbundled](https://medium.com/@ramandumcs/cpu-throttling-unbundled-eae883e7e494)
-  - Progress on removing the [GIL in Python](https://lwn.net/Articles/947138/) -- the interesting part here is the [concurrency/synchronization](https://peps.python.org/pep-0703/#reference-counting)
+
+- Progress on removing the [GIL in Python](https://lwn.net/Articles/947138/) -- the interesting part here is the [concurrency/synchronization](https://peps.python.org/pep-0703/#reference-counting)
   
 Add more links.
 
@@ -76,6 +74,9 @@ Makes it easier to browse through them to find whatever you're interested in.
 
 # Topics we've discussed (but can revisit)
 
+- Control groups series by Neil Brown [cgroups](https://lwn.net/Articles/604609/). Let start with parts [1](https://lwn.net/Articles/603762/), [2](https://lwn.net/Articles/604413/), and [3](https://lwn.net/Articles/605039/).
+- Cgroups discussion continues from CPU related articles -> [part 4](https://lwn.net/Articles/606004/), [CFS group scheduling](https://lwn.net/Articles/240474/), [CFS bandwidth control](https://lwn.net/Articles/428230/), [The burstable CFS bandwidth controller](https://lwn.net/Articles/844976/)
+  - A nice medium post that summarizes CPU throttling [CPU Throttling: Unbundled](https://medium.com/@ramandumcs/cpu-throttling-unbundled-eae883e7e494)
 - tracing tools [overview](https://thume.ca/2023/12/02/tracing-methods/)
 - Virtualization hardware details in [Extended Page-Tables (EPT)](https://revers.engineering/mmu-ept-technical-details/) and implementation [details](https://revers.engineering/mmu-virtualization-impl-p1/)
 - KVM [hello world](https://github.com/dpw/kvm-hello-world) (I haven't read the article but maybe we can combine these two into one?)
