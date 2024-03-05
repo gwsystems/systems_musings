@@ -9,6 +9,7 @@ Add more links.
 
 # List of Potential Topics for Musing
 
+- user-level [scheduler infrastructure](https://arighi.blogspot.com/2024/02/writing-scheduler-for-linux-in-rust.html) in Linux
 - generic [mechanism to handle priority inheritance](https://lwn.net/Articles/953438/)
 - understanding [speculative execution, and its interplay with memory](https://johnnysswlab.com/unexpected-ways-memory-subsystem-interacts-with-branch-prediction/).
 - using [CPU execution time jitter](https://lwn.net/Articles/642166/) to generate random numbers.
