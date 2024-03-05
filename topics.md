@@ -3,7 +3,7 @@
 We'll discuss the first topic on this list in the next meeting. 
 Make sure to scan the articles, and come with questions.
 
-- Progress on removing the [GIL in Python](https://lwn.net/Articles/947138/) -- the interesting part here is the [concurrency/synchronization](https://peps.python.org/pep-0703/#reference-counting)
+- Progress on removing the [GIL in Python](https://lwn.net/Articles/947138/) -- an overview of the interesting part is [here](https://lwn.net/Articles/872869/) and the gory details about the [concurrency/synchronization](https://peps.python.org/pep-0703/#reference-counting).
   
 Add more links.
 
