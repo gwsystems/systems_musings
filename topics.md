@@ -7,6 +7,8 @@ Make sure to scan the articles, and come with questions.
 
 Add more links.
 
+- generic [mechanism to handle priority inheritance](https://lwn.net/Articles/953438/)
+
 # List of Potential Topics for Musing
 
 - user-level [scheduler infrastructure](https://arighi.blogspot.com/2024/02/writing-scheduler-for-linux-in-rust.html) in Linux
