@@ -7,7 +7,7 @@ Make sure to scan the articles, and come with questions.
 
 Add more links.
 
-- generic [mechanism to handle priority inheritance](https://lwn.net/Articles/953438/)
+- generic [mechanism to handle priority inheritance](https://lwn.net/Articles/953438/) and some of the [slides](https://lpc.events/event/17/contributions/1482/attachments/1147/2382/LPC23%20-%20ProxyExecution.pdf) referred to in this article.
 
 # List of Potential Topics for Musing
 
