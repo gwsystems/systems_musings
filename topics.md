@@ -5,14 +5,13 @@ Make sure to scan the articles, and come with questions.
 
 Add more links.
 
-- generic [mechanism to handle priority inheritance](https://lwn.net/Articles/953438/) and some of the [slides](https://lpc.events/event/17/contributions/1482/attachments/1147/2382/LPC23%20-%20ProxyExecution.pdf) referred to in this article.
+- using [CPU execution time jitter](https://lwn.net/Articles/642166/) to generate random numbers.
 
 # List of Potential Topics for Musing
 
 - user-level [scheduler infrastructure](https://arighi.blogspot.com/2024/02/writing-scheduler-for-linux-in-rust.html) in Linux
 - generic [mechanism to handle priority inheritance](https://lwn.net/Articles/953438/)
 - understanding [speculative execution, and its interplay with memory](https://johnnysswlab.com/unexpected-ways-memory-subsystem-interacts-with-branch-prediction/).
-- using [CPU execution time jitter](https://lwn.net/Articles/642166/) to generate random numbers.
 - ELF [core dump](https://lief-project.github.io/doc/latest/tutorials/12_elf_coredump.html) format and parsing.
 - Survey of [IPC mechanisms](https://beej.us/guide/bgipc/html/) in UNIX
 - BPF-defined [network devices](https://lwn.net/Articles/949960/)
@@ -75,6 +74,7 @@ Makes it easier to browse through them to find whatever you're interested in.
 
 # Topics we've discussed (but can revisit)
 
+- generic [mechanism to handle priority inheritance](https://lwn.net/Articles/953438/) and some of the [slides](https://lpc.events/event/17/contributions/1482/attachments/1147/2382/LPC23%20-%20ProxyExecution.pdf) referred to in this article.
 - Progress on removing the [GIL in Python](https://lwn.net/Articles/947138/) -- an overview of the interesting part is [here](https://lwn.net/Articles/872869/) and the gory details about the [concurrency/synchronization](https://peps.python.org/pep-0703/#reference-counting).
 - Control groups series by Neil Brown [cgroups](https://lwn.net/Articles/604609/). Let start with parts [1](https://lwn.net/Articles/603762/), [2](https://lwn.net/Articles/604413/), and [3](https://lwn.net/Articles/605039/).
 - Cgroups discussion continues from CPU related articles -> [part 4](https://lwn.net/Articles/606004/), [CFS group scheduling](https://lwn.net/Articles/240474/), [CFS bandwidth control](https://lwn.net/Articles/428230/), [The burstable CFS bandwidth controller](https://lwn.net/Articles/844976/)
