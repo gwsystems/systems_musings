@@ -6,6 +6,8 @@ Make sure to scan the articles, and come with questions.
 Add more links.
 
 - using [CPU execution time jitter](https://lwn.net/Articles/642166/) to generate random numbers.
+- SIMD Instruction Sets  [MMX,SSE,AVX](https://www.syncfusion.com/succinctly-free-ebooks/assemblylanguage/simd-instruction-sets))
+- SIMD processing with AVX,AV2 intrinsics [Crunching Numbers with AVX and AVX2](https://www.codeproject.com/Articles/874396/Crunching-Numbers-with-AVX-and-AVX)
 
 # List of Potential Topics for Musing
 
