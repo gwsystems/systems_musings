@@ -5,7 +5,6 @@ Make sure to scan the articles, and come with questions.
 
 Add more links.
 
-- using [CPU execution time jitter](https://lwn.net/Articles/642166/) to generate random numbers.
 - SIMD Instruction Sets. Introduction: [MMX,SSE,AVX](https://www.syncfusion.com/succinctly-free-ebooks/assemblylanguage/simd-instruction-sets)), and the article to discuss: SIMD processing with AVX,AV2 intrinsics [Crunching Numbers with AVX and AVX2](https://www.codeproject.com/Articles/874396/Crunching-Numbers-with-AVX-and-AVX)
 
 # List of Potential Topics for Musing
@@ -75,6 +74,7 @@ Makes it easier to browse through them to find whatever you're interested in.
 
 # Topics we've discussed (but can revisit)
 
+- using [CPU execution time jitter](https://lwn.net/Articles/642166/) to generate random numbers.
 - generic [mechanism to handle priority inheritance](https://lwn.net/Articles/953438/) and some of the [slides](https://lpc.events/event/17/contributions/1482/attachments/1147/2382/LPC23%20-%20ProxyExecution.pdf) referred to in this article.
 - Progress on removing the [GIL in Python](https://lwn.net/Articles/947138/) -- an overview of the interesting part is [here](https://lwn.net/Articles/872869/) and the gory details about the [concurrency/synchronization](https://peps.python.org/pep-0703/#reference-counting).
 - Control groups series by Neil Brown [cgroups](https://lwn.net/Articles/604609/). Let start with parts [1](https://lwn.net/Articles/603762/), [2](https://lwn.net/Articles/604413/), and [3](https://lwn.net/Articles/605039/).
