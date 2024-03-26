@@ -7,11 +7,13 @@ Add more links.
 
 - SIMD Instruction Sets. Introduction: [MMX,SSE,AVX](https://www.syncfusion.com/succinctly-free-ebooks/assemblylanguage/simd-instruction-sets)), and the article to discuss: SIMD processing with AVX,AV2 intrinsics [Crunching Numbers with AVX and AVX2](https://www.codeproject.com/Articles/874396/Crunching-Numbers-with-AVX-and-AVX)
 
+- Understanding [speculative execution, and its interplay with memory](https://johnnysswlab.com/unexpected-ways-memory-subsystem-interacts-with-branch-prediction/).
+
 # List of Potential Topics for Musing
 
 - user-level [scheduler infrastructure](https://arighi.blogspot.com/2024/02/writing-scheduler-for-linux-in-rust.html) in Linux
 - generic [mechanism to handle priority inheritance](https://lwn.net/Articles/953438/)
-- understanding [speculative execution, and its interplay with memory](https://johnnysswlab.com/unexpected-ways-memory-subsystem-interacts-with-branch-prediction/).
+
 - ELF [core dump](https://lief-project.github.io/doc/latest/tutorials/12_elf_coredump.html) format and parsing.
 - Survey of [IPC mechanisms](https://beej.us/guide/bgipc/html/) in UNIX
 - BPF-defined [network devices](https://lwn.net/Articles/949960/)
