@@ -9,6 +9,7 @@ Add more links.
 
 - Understanding [speculative execution, and its interplay with memory](https://johnnysswlab.com/unexpected-ways-memory-subsystem-interacts-with-branch-prediction/).
 -  [Mimalloc](https://www.microsoft.com/en-us/research/uploads/prod/2019/06/mimalloc-tr-v1.pdf), [TCmalloc](https://goog-perftools.sourceforge.net/doc/tcmalloc.html), [jemalloc](https://engineering.fb.com/2011/01/03/core-data/scalable-memory-allocation-using-jemalloc/) (I (sam) am interested in this one but not sure how many people will show up because we have the finals and stuff.)
+-  New Linux [Privilege Escalation](https://pwning.tech/nftables/) based on nf_tables
 
 # List of Potential Topics for Musing
 
