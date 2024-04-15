@@ -5,7 +5,6 @@ Make sure to scan the articles, and come with questions.
 
 Add more links.
 
-- Understanding [speculative execution, and its interplay with memory](https://johnnysswlab.com/unexpected-ways-memory-subsystem-interacts-with-branch-prediction/).
 -  [Mimalloc](https://www.microsoft.com/en-us/research/uploads/prod/2019/06/mimalloc-tr-v1.pdf), [TCmalloc](https://goog-perftools.sourceforge.net/doc/tcmalloc.html), [jemalloc](https://engineering.fb.com/2011/01/03/core-data/scalable-memory-allocation-using-jemalloc/) (I (sam) am interested in this one but not sure how many people will show up because we have the finals and stuff.)
 -  New Linux [Privilege Escalation](https://pwning.tech/nftables/) based on nf_tables
 
@@ -79,6 +78,7 @@ Makes it easier to browse through them to find whatever you're interested in.
 
 # Topics we've discussed (but can revisit)
 
+- Understanding [speculative execution, and its interplay with memory](https://johnnysswlab.com/unexpected-ways-memory-subsystem-interacts-with-branch-prediction/).
 - SIMD Instruction Sets. Introduction: [MMX,SSE,AVX](https://www.syncfusion.com/succinctly-free-ebooks/assemblylanguage/simd-instruction-sets)), and the article to discuss: SIMD processing with AVX,AV2 intrinsics [Crunching Numbers with AVX and AVX2](https://www.codeproject.com/Articles/874396/Crunching-Numbers-with-AVX-and-AVX)
 - using [CPU execution time jitter](https://lwn.net/Articles/642166/) to generate random numbers.
 - generic [mechanism to handle priority inheritance](https://lwn.net/Articles/953438/) and some of the [slides](https://lpc.events/event/17/contributions/1482/attachments/1147/2382/LPC23%20-%20ProxyExecution.pdf) referred to in this article.
