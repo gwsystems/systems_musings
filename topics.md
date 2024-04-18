@@ -9,6 +9,7 @@ Add more links.
 
 # List of Potential Topics for Musing
 
+- Malloc internals, and how they are used for [heap exploits](https://downloads.immunityinc.com/infiltrate-archives/webkit_heap.pdf)
 - the design of [Mimalloc](https://www.microsoft.com/en-us/research/uploads/prod/2019/06/mimalloc-tr-v1.pdf) (lets revisit this at some point)
 - [The server chose violence](https://cliffle.com/blog/hubris-reply-fault/) -- faults with IPC in a microkernel
 - Optimizing [matrix multiplication](https://justine.lol/matmul/) for LLMs in lamma.cpp (includes compiler, vector, and parallelism discussions). See further down in the post.
