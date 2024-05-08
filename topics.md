@@ -71,6 +71,7 @@ Add more links.
 - [Linux in mixed-criticality systems](https://lwn.net/Articles/774217/),[A discussion on Linux in space](https://lwn.net/Articles/938779/)
 - [Challenges for KernelCI](https://lwn.net/Articles/939538/)
 - [How Garbage Collection works in Java? Explained](https://javarevisited.blogspot.com/2011/04/garbage-collection-in-java.html)
+- [x86 User Interrupts support](https://lwn.net/Articles/869140/),and some [slides](https://lpc.events/event/11/contributions/985/attachments/756/1417/User_Interrupts_LPC_2021.pdf)
 
 # Index of LWN articles
 
