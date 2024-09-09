@@ -6,6 +6,8 @@ Make sure to scan the articles, and come with questions.
 Add more links.
 
 -  Software interrupts, and [where it is all going](https://lwn.net/Articles/939973/) in Linux
+-  user-level [scheduler infrastructure](https://arighi.blogspot.com/2024/02/writing-scheduler-for-linux-in-rust.html) in Linux
+
 
 # List of Potential Topics for Musing
 
@@ -17,7 +19,6 @@ Add more links.
 - [The server chose violence](https://cliffle.com/blog/hubris-reply-fault/) -- faults with IPC in a microkernel
 - Optimizing [matrix multiplication](https://justine.lol/matmul/) for LLMs in lamma.cpp (includes compiler, vector, and parallelism discussions). See further down in the post.
 - Example of using SIMD instructions to parse JSON 4x faster with [simdjson](https://branchfree.org/2019/02/25/paper-parsing-gigabytes-of-json-per-second/)
-- user-level [scheduler infrastructure](https://arighi.blogspot.com/2024/02/writing-scheduler-for-linux-in-rust.html) in Linux
 - generic [mechanism to handle priority inheritance](https://lwn.net/Articles/953438/)
 
 - ELF [core dump](https://lief-project.github.io/doc/latest/tutorials/12_elf_coredump.html) format and parsing.
