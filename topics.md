@@ -10,7 +10,7 @@ Add more links.
 
 
 # List of Potential Topics for Musing
-
+- RCU ( The read-copy-update Mechanism in the Kernel) I'll (Sam) find the link shortly.
 - Crowdstrike [post-mortem](https://www.crowdstrike.com/wp-content/uploads/2024/08/Channel-File-291-Incident-Root-Cause-Analysis-08.06.2024.pdf) (linked from [here](https://www.crowdstrike.com/falcon-content-update-remediation-and-guidance-hub/))
 - Fun dive into [embedded firmware](https://lichtlos.weblog.lol/2024/08/how-to-reverse-the-sipeed-nanokvm-firmware) with an eye toward security (buildroot + go)
 - [strlcpy and microarchitecture](https://nrk.neocities.org/articles/cpu-vs-common-sense)
