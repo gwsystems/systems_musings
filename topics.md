@@ -5,9 +5,7 @@ Make sure to scan the articles, and come with questions.
 
 Add more links.
 
--  Software interrupts, and [where it is all going](https://lwn.net/Articles/939973/) in Linux
 -  user-level [scheduler infrastructure](https://arighi.blogspot.com/2024/02/writing-scheduler-for-linux-in-rust.html) in Linux
-
 
 # List of Potential Topics for Musing
 - RCU ( The read-copy-update Mechanism in the Kernel) I'll (Sam) find the link shortly.
@@ -82,6 +80,7 @@ Makes it easier to browse through them to find whatever you're interested in.
 
 # Topics we've discussed (but can revisit)
 
+-  Software interrupts, and [where it is all going](https://lwn.net/Articles/939973/) in Linux
 -  New Linux [Privilege Escalation](https://pwning.tech/nftables/) based on nf_tables
 -  [Mimalloc](https://www.microsoft.com/en-us/research/uploads/prod/2019/06/mimalloc-tr-v1.pdf), [TCmalloc](https://goog-perftools.sourceforge.net/doc/tcmalloc.html), [jemalloc](https://engineering.fb.com/2011/01/03/core-data/scalable-memory-allocation-using-jemalloc/) (I (sam) am interested in this one but not sure how many people will show up because we have the finals and stuff.)
 - Understanding [speculative execution, and its interplay with memory](https://johnnysswlab.com/unexpected-ways-memory-subsystem-interacts-with-branch-prediction/).
