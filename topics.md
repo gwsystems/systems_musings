@@ -5,7 +5,7 @@ Make sure to scan the articles, and come with questions.
 
 Add more links.
 
-- ...
+- BPF-defined [network devices](https://lwn.net/Articles/949960/)
 
 # List of Potential Topics for Musing
 - RCU ( The read-copy-update Mechanism in the Kernel) I'll (Sam) find the link shortly.
@@ -21,7 +21,6 @@ Add more links.
 
 - ELF [core dump](https://lief-project.github.io/doc/latest/tutorials/12_elf_coredump.html) format and parsing.
 - Survey of [IPC mechanisms](https://beej.us/guide/bgipc/html/) in UNIX
-- BPF-defined [network devices](https://lwn.net/Articles/949960/)
 - [Deferred scheduling](https://lwn.net/Articles/948870/) of threads holding user-level spinlocks...we want something like this!
 - A light read about the [software-defined vehicle](https://spectrum.ieee.org/software-eating-car), but with many relevant research implications.
 - How are virtual drivers implemented using virtio? Interesting series of articles on virtio:
