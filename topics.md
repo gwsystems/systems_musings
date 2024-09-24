@@ -5,7 +5,7 @@ Make sure to scan the articles, and come with questions.
 
 Add more links.
 
-- BPF-defined [network devices](https://lwn.net/Articles/949960/)
+- BPF-defined [network devices](https://lwn.net/Articles/949960/) and [xdp](https://docs.cilium.io/en/latest/bpf/progtypes/#xdp)
 
 # List of Potential Topics for Musing
 
