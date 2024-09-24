@@ -5,11 +5,10 @@ Make sure to scan the articles, and come with questions.
 
 Add more links.
 
-- BPF-defined [network devices](https://lwn.net/Articles/949960/) and [xdp](https://docs.cilium.io/en/latest/bpf/progtypes/#xdp)
+- ???
 
 # List of Potential Topics for Musing
 
-- [sched_ext](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/diff/Documentation/scheduler/sched-ext.rst?id=88264981f2082248e892a706b2c5004650faac54)
 - New Automative-Grade Chips from [Intel](https://www.intel.com/content/dam/www/central-libraries/us/en/documents/2024-03/automotive-soc-platform-brief.pdf) and [Amd](https://www.phoronix.com/news/AMD-Ryzen-Embedded-V2000A)
 - RCU ( The read-copy-update Mechanism in the Kernel) [LWN](https://lwn.net/Articles/262464/) link.
 - Crowdstrike [post-mortem](https://www.crowdstrike.com/wp-content/uploads/2024/08/Channel-File-291-Incident-Root-Cause-Analysis-08.06.2024.pdf) (linked from [here](https://www.crowdstrike.com/falcon-content-update-remediation-and-guidance-hub/))
@@ -67,7 +66,7 @@ Add more links.
 - Can we find an article on KPI (kernel page-table isolation)?
 - Risc-V bootup procedures vs. x86
 - Attempts to make it so that [bpf can execute unpriv](https://lwn.net/Articles/935195/) code.
-- [Scheduling](https://lwn.net/Articles/935180/): pluggable bpf scheduling, priority inheritance through proxy execution, and different timer structures
+- [Scheduling](https://lwn.net/Articles/935180/): pluggable bpf scheduling, priority inheritance through proxy execution, and different timer structures. Also: [sched_ext](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/diff/Documentation/scheduler/sched-ext.rst?id=88264981f2082248e892a706b2c5004650faac54)
 - Page management and tracking in Linux. [struct page](https://lwn.net/Articles/937839/) (vs. [Composite's](https://github.com/gwsystems/composite/blob/v4/src/kernel/include/resources.h#L10-L17)), generalizing into [folios](https://lwn.net/Articles/849538/), and general page [management](https://lwn.net/Articles/619514/)
 - Biased [reference counts](https://dl.acm.org/doi/10.1145/3243176.3243195) used in the new Python [PIP](https://lwn.net/Articles/940290/) to remove the GIL
 - [Linux in mixed-criticality systems](https://lwn.net/Articles/774217/),[A discussion on Linux in space](https://lwn.net/Articles/938779/)
@@ -82,6 +81,7 @@ Makes it easier to browse through them to find whatever you're interested in.
 
 # Topics we've discussed (but can revisit)
 
+- BPF-defined [network devices](https://lwn.net/Articles/949960/) and [xdp](https://docs.cilium.io/en/latest/bpf/progtypes/#xdp)
 -  user-level [scheduler infrastructure](https://arighi.blogspot.com/2024/02/writing-scheduler-for-linux-in-rust.html) in Linux
 -  Software interrupts, and [where it is all going](https://lwn.net/Articles/939973/) in Linux
 -  New Linux [Privilege Escalation](https://pwning.tech/nftables/) based on nf_tables
