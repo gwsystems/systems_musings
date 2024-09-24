@@ -11,7 +11,7 @@ Add more links.
 
 - [sched_ext](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/diff/Documentation/scheduler/sched-ext.rst?id=88264981f2082248e892a706b2c5004650faac54)
 - New Automative-Grade Chips from [Intel](https://www.intel.com/content/dam/www/central-libraries/us/en/documents/2024-03/automotive-soc-platform-brief.pdf) and [Amd](https://www.phoronix.com/news/AMD-Ryzen-Embedded-V2000A)
-- RCU ( The read-copy-update Mechanism in the Kernel) I'll (Sam) find the link shortly.
+- RCU ( The read-copy-update Mechanism in the Kernel) [LWN](https://lwn.net/Articles/262464/) link.
 - Crowdstrike [post-mortem](https://www.crowdstrike.com/wp-content/uploads/2024/08/Channel-File-291-Incident-Root-Cause-Analysis-08.06.2024.pdf) (linked from [here](https://www.crowdstrike.com/falcon-content-update-remediation-and-guidance-hub/))
 - Fun dive into [embedded firmware](https://lichtlos.weblog.lol/2024/08/how-to-reverse-the-sipeed-nanokvm-firmware) with an eye toward security (buildroot + go)
 - [strlcpy and microarchitecture](https://nrk.neocities.org/articles/cpu-vs-common-sense)
