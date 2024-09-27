@@ -5,7 +5,7 @@ Make sure to scan the articles, and come with questions.
 
 Add more links.
 
-- ???
+- How [Cosmopolitan libc](https://justine.lol/cosmopolitan/) uses the [αcτµαlly pδrταblε εxεcµταblε](https://justine.lol/ape.html) format to produce "fat binaries" which run natively on six OSes + bare metal and two architectures. Example use case: [redbean](https://redbean.dev/) ("single-file distributable web server")
 
 # List of Potential Topics for Musing
 
