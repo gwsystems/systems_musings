@@ -8,7 +8,7 @@ Add more links.
 - How [Cosmopolitan libc](https://justine.lol/cosmopolitan/) uses the [αcτµαlly pδrταblε εxεcµταblε](https://justine.lol/ape.html) format to produce "fat binaries" which run natively on six OSes + bare metal and two architectures. Example use case: [redbean](https://redbean.dev/) ("single-file distributable web server")
 
 # List of Potential Topics for Musing
-
+- The new CUPS vulnerability. [Link](https://www.evilsocket.net/2024/09/26/Attacking-UNIX-systems-via-CUPS-Part-I/)
 - New Automative-Grade Chips from [Intel](https://www.intel.com/content/dam/www/central-libraries/us/en/documents/2024-03/automotive-soc-platform-brief.pdf) and [Amd](https://www.phoronix.com/news/AMD-Ryzen-Embedded-V2000A)
 - RCU ( The read-copy-update Mechanism in the Kernel) [LWN](https://lwn.net/Articles/262464/) link.
 - Crowdstrike [post-mortem](https://www.crowdstrike.com/wp-content/uploads/2024/08/Channel-File-291-Incident-Root-Cause-Analysis-08.06.2024.pdf) (linked from [here](https://www.crowdstrike.com/falcon-content-update-remediation-and-guidance-hub/))
