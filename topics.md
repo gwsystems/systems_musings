@@ -4,7 +4,7 @@ We'll discuss the first topic on this list in the next meeting.
 Make sure to scan the articles, and come with questions.
 
 Add more links.
-
+- Fuchsia OS: Understanding components through object-oriented desgin (https://fuchsia.dev/fuchsia-src/concepts/components/v2/components_as_classes).
 - How [Cosmopolitan libc](https://justine.lol/cosmopolitan/) uses the [αcτµαlly pδrταblε εxεcµταblε](https://justine.lol/ape.html) format to produce "fat binaries" which run natively on six OSes + bare metal and two architectures. Example use case: [redbean](https://redbean.dev/) ("single-file distributable web server")
 -  Please choose ....
 - [For Oct 15] The new CUPS vulnerability. [Link](https://www.evilsocket.net/2024/09/26/Attacking-UNIX-systems-via-CUPS-Part-I/)
