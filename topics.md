@@ -5,9 +5,8 @@ Make sure to scan the articles, and come with questions.
 
 Add more links.
 - Fuchsia OS: Understanding components through object-oriented desgin (https://fuchsia.dev/fuchsia-src/concepts/components/v2/components_as_classes).
--  Please choose ....
 - [For Oct 15] The new CUPS vulnerability. [Link](https://www.evilsocket.net/2024/09/26/Attacking-UNIX-systems-via-CUPS-Part-I/)
-- 
+
 # List of Potential Topics for Musing
 - New Automative-Grade Chips from [Intel](https://www.intel.com/content/dam/www/central-libraries/us/en/documents/2024-03/automotive-soc-platform-brief.pdf) and [Amd](https://www.phoronix.com/news/AMD-Ryzen-Embedded-V2000A)
 - RCU ( The read-copy-update Mechanism in the Kernel) [LWN](https://lwn.net/Articles/262464/) link.
