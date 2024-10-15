@@ -4,10 +4,12 @@ We'll discuss the first topic on this list in the next meeting.
 Make sure to scan the articles, and come with questions.
 
 Add more links.
-- Fuchsia OS: Understanding components through object-oriented desgin (https://fuchsia.dev/fuchsia-src/concepts/components/v2/components_as_classes).
-- [For Oct 15] The new CUPS vulnerability. [Link](https://www.evilsocket.net/2024/09/26/Attacking-UNIX-systems-via-CUPS-Part-I/)
+
+- 
 
 # List of Potential Topics for Musing
+
+- Add links/tutorials/descriptions of DHCP??? How it is used in containers and in the cloud...
 - New Automative-Grade Chips from [Intel](https://www.intel.com/content/dam/www/central-libraries/us/en/documents/2024-03/automotive-soc-platform-brief.pdf) and [Amd](https://www.phoronix.com/news/AMD-Ryzen-Embedded-V2000A)
 - RCU ( The read-copy-update Mechanism in the Kernel) [LWN](https://lwn.net/Articles/262464/) link.
 - Crowdstrike [post-mortem](https://www.crowdstrike.com/wp-content/uploads/2024/08/Channel-File-291-Incident-Root-Cause-Analysis-08.06.2024.pdf) (linked from [here](https://www.crowdstrike.com/falcon-content-update-remediation-and-guidance-hub/))
@@ -80,6 +82,8 @@ Makes it easier to browse through them to find whatever you're interested in.
 
 # Topics we've discussed (but can revisit)
 
+- The new CUPS vulnerability. [Link](https://www.evilsocket.net/2024/09/26/Attacking-UNIX-systems-via-CUPS-Part-I/)
+- Fuchsia OS: Understanding components through object-oriented desgin (https://fuchsia.dev/fuchsia-src/concepts/components/v2/components_as_classes).
 - How [Cosmopolitan libc](https://justine.lol/cosmopolitan/) uses the [αcτµαlly pδrταblε εxεcµταblε](https://justine.lol/ape.html) format to produce "fat binaries" which run natively on six OSes + bare metal and two architectures. Example use case: [redbean](https://redbean.dev/) ("single-file distributable web server")
 - BPF-defined [network devices](https://lwn.net/Articles/949960/) and [xdp](https://docs.cilium.io/en/latest/bpf/progtypes/#xdp)
 -  user-level [scheduler infrastructure](https://arighi.blogspot.com/2024/02/writing-scheduler-for-linux-in-rust.html) in Linux
