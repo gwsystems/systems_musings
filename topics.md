@@ -5,12 +5,12 @@ Make sure to scan the articles, and come with questions.
 
 Add more links.
 
-- 
+- New Automative-Grade Chips from [Intel](https://www.intel.com/content/dam/www/central-libraries/us/en/documents/2024-03/automotive-soc-platform-brief.pdf) and [Amd](https://www.phoronix.com/news/AMD-Ryzen-Embedded-V2000A). Maybe a discussion about their cpu features, and their software stack (Figure 2 on Intel page)?
 
 # List of Potential Topics for Musing
 
 - Add links/tutorials/descriptions of DHCP??? How it is used in containers and in the cloud...
-- New Automative-Grade Chips from [Intel](https://www.intel.com/content/dam/www/central-libraries/us/en/documents/2024-03/automotive-soc-platform-brief.pdf) and [Amd](https://www.phoronix.com/news/AMD-Ryzen-Embedded-V2000A)
+
 - RCU ( The read-copy-update Mechanism in the Kernel) [LWN](https://lwn.net/Articles/262464/) link.
 - Crowdstrike [post-mortem](https://www.crowdstrike.com/wp-content/uploads/2024/08/Channel-File-291-Incident-Root-Cause-Analysis-08.06.2024.pdf) (linked from [here](https://www.crowdstrike.com/falcon-content-update-remediation-and-guidance-hub/))
 - Fun dive into [embedded firmware](https://lichtlos.weblog.lol/2024/08/how-to-reverse-the-sipeed-nanokvm-firmware) with an eye toward security (buildroot + go)
