@@ -9,6 +9,8 @@ Add more links.
 # List of Potential Topics for Musing
 
 - Add links/tutorials/descriptions of DHCP??? How it is used in containers and in the cloud...
+- Ftrace and how it works (Sam)
+- Soundness manifesto (Sam)
 - Multi-version concurrency control [sucks](https://www.cs.cmu.edu/~pavlo/blog/2023/04/the-part-of-postgresql-we-hate-the-most.html) in Postgres.
 - RCU ( The read-copy-update Mechanism in the Kernel) [LWN](https://lwn.net/Articles/262464/) link.
 - Crowdstrike [post-mortem](https://www.crowdstrike.com/wp-content/uploads/2024/08/Channel-File-291-Incident-Root-Cause-Analysis-08.06.2024.pdf) (linked from [here](https://www.crowdstrike.com/falcon-content-update-remediation-and-guidance-hub/))
