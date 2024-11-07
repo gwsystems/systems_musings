@@ -4,10 +4,11 @@ We'll discuss the first topic on this list in the next meeting.
 Make sure to scan the articles, and come with questions.
 
 Add more links.
-- (Feel free to move it to the other week) Latencies and debugging latencies in the [linux scheduler](https://bristot.me/linux-scheduling-latency-debug-and-analysis/)
+- 
   
 # List of Potential Topics for Musing
 
+- bolt and [binary layout optimization](https://lwn.net/Articles/993828/)
 - Add links/tutorials/descriptions of DHCP??? How it is used in containers and in the cloud...
 - Ftrace and how it works (Sam)
 - Soundness manifesto (Sam)
@@ -80,8 +81,9 @@ Add more links.
 See the great [index](https://lwn.net/Kernel/Index/) of all of the LWN kernel articles. 
 Makes it easier to browse through them to find whatever you're interested in.
 
-# Topics we've discussed (but can revisit)
+# Topics we've discussed (but can revisist)
 
+- (Feel free to move it to the other week) Latencies and debugging latencies in the [linux scheduler](https://bristot.me/linux-scheduling-latency-debug-and-analysis/)
 - New Automative-Grade Chips from [Intel](https://www.intel.com/content/dam/www/central-libraries/us/en/documents/2024-03/automotive-soc-platform-brief.pdf) and [Amd](https://www.phoronix.com/news/AMD-Ryzen-Embedded-V2000A).
 - The new CUPS vulnerability. [Link](https://www.evilsocket.net/2024/09/26/Attacking-UNIX-systems-via-CUPS-Part-I/)
 - Fuchsia OS: Understanding components through object-oriented desgin (https://fuchsia.dev/fuchsia-src/concepts/components/v2/components_as_classes).
