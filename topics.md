@@ -8,6 +8,7 @@ Add more links.
   
 # List of Potential Topics for Musing
 
+- OSX sandbox [escapes](https://jhftss.github.io/A-New-Era-of-macOS-Sandbox-Escapes/) (see the slides therein)
 - bolt and [binary layout optimization](https://lwn.net/Articles/993828/)
 - Add links/tutorials/descriptions of DHCP??? How it is used in containers and in the cloud...
 - Ftrace and how it works (Sam)
