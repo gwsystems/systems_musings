@@ -3,8 +3,9 @@
 We'll discuss the first topic on this list in the next meeting. 
 Make sure to scan the articles, and come with questions.
 
-Add more links.
-- 
+List of topics:
+
+- ...
   
 # List of Potential Topics for Musing
 
