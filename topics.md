@@ -5,7 +5,7 @@ Make sure to scan the articles, and come with questions.
 
 List of topics:
 - How is Rust memeory Safe? What does that mean. [This link maybe?](https://stanford-cs242.github.io/f18/lectures/05-1-rust-memory-safety.html) (Sam)
-- ...
+- KIM VMM [wiser](https://github.com/flouthoc/wiser)
   
 # List of Potential Topics for Musing
 
@@ -39,7 +39,6 @@ List of topics:
 - Linux kernel [preemption](https://lwn.net/Articles/831678/) [mode](https://lwn.net/Articles/944686/) [information](https://lwn.net/Articles/945422/) (and a current push to [unify](https://lore.kernel.org/lkml/20231107215742.363031-1-ankur.a.arora@oracle.com/))
 - [Maple Trees](https://lwn.net/Articles/845507/) to track virtual address ranges including some background on how these ranges are tracked.
 - [GraalOS](https://blogs.oracle.com/java/post/introducing-graalos) - a high-performance serverless Java-based application deployment technology by Oracle. More [here](https://blogs.oracle.com/cloud-infrastructure/post/ultrafast-serverless-functions-powered-by-graalos). See [graal.cloud/graalos/](https://graal.cloud/graalos/).
-- Similarly, KIM VMM [wiser](https://github.com/flouthoc/wiser)
 - Yet another attempt to add [security to BPF](https://lwn.net/Articles/947173/) -- fundamental issues here around how to add security to a large surface API
 - Adaptive, user-level spinlocks and [restartable sequences](https://lwn.net/Articles/944895/) for user-kernel communication (we used to have these in Composite!, and there is potential research here)
 
