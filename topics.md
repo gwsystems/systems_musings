@@ -4,7 +4,6 @@ We'll discuss the first topic on this list in the next meeting.
 Make sure to scan the articles, and come with questions.
 
 List of topics:
-- How is Rust memeory Safe? What does that mean. [This link maybe?](https://stanford-cs242.github.io/f18/lectures/05-1-rust-memory-safety.html) (Sam)
 - KIM VMM [wiser](https://github.com/flouthoc/wiser)
   
 # List of Potential Topics for Musing
@@ -83,7 +82,7 @@ See the great [index](https://lwn.net/Kernel/Index/) of all of the LWN kernel ar
 Makes it easier to browse through them to find whatever you're interested in.
 
 # Topics we've discussed (but can revisist)
-
+- How is Rust memeory Safe? What does that mean. [This link maybe?](https://stanford-cs242.github.io/f18/lectures/05-1-rust-memory-safety.html) (Sam)
 - (Feel free to move it to the other week) Latencies and debugging latencies in the [linux scheduler](https://bristot.me/linux-scheduling-latency-debug-and-analysis/)
 - New Automative-Grade Chips from [Intel](https://www.intel.com/content/dam/www/central-libraries/us/en/documents/2024-03/automotive-soc-platform-brief.pdf) and [Amd](https://www.phoronix.com/news/AMD-Ryzen-Embedded-V2000A).
 - The new CUPS vulnerability. [Link](https://www.evilsocket.net/2024/09/26/Attacking-UNIX-systems-via-CUPS-Part-I/)
