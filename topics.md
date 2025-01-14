@@ -11,7 +11,7 @@ List of topics:
 - OSX sandbox [escapes](https://jhftss.github.io/A-New-Era-of-macOS-Sandbox-Escapes/) (see the slides therein)
 - bolt and [binary layout optimization](https://lwn.net/Articles/993828/)
 - Add links/tutorials/descriptions of DHCP??? How it is used in containers and in the cloud...
-- Ftrace and how it works (Sam)
+- Ftrace and how it works (Sam). [Accurate timestamp for ftrace ring buffer](https://lwn.net/Articles/831207/)
 - Soundness manifesto (Sam)
 - Multi-version concurrency control [sucks](https://www.cs.cmu.edu/~pavlo/blog/2023/04/the-part-of-postgresql-we-hate-the-most.html) in Postgres.
 - RCU ( The read-copy-update Mechanism in the Kernel) [LWN](https://lwn.net/Articles/262464/) link.
