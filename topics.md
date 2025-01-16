@@ -8,6 +8,7 @@ List of topics:
   
 # List of Potential Topics for Musing
 
+- Everything you might or might not want to know about [TLBs](https://grsecurity.net/h2hc_2024_what_every_hacker_should_know_TLB_invalidation.pdf)
 - OSX sandbox [escapes](https://jhftss.github.io/A-New-Era-of-macOS-Sandbox-Escapes/) (see the slides therein)
 - bolt and [binary layout optimization](https://lwn.net/Articles/993828/)
 - Add links/tutorials/descriptions of DHCP??? How it is used in containers and in the cloud...
