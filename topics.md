@@ -5,6 +5,8 @@ Make sure to scan the articles, and come with questions.
 
 List of topics:
 
+- RCU ( The read-copy-update Mechanism in the Kernel) [LWN](https://lwn.net/Articles/262464/) link.
+- Malloc internals, and how they are used for [heap exploits](https://downloads.immunityinc.com/infiltrate-archives/webkit_heap.pdf) (Feel free to put yours above this one)
   
 # List of Potential Topics for Musing
 
@@ -15,11 +17,9 @@ List of topics:
 - Ftrace and how it works (Sam). [Accurate timestamp for ftrace ring buffer](https://lwn.net/Articles/831207/)
 - Soundness manifesto (Sam)
 - Multi-version concurrency control [sucks](https://www.cs.cmu.edu/~pavlo/blog/2023/04/the-part-of-postgresql-we-hate-the-most.html) in Postgres.
-- RCU ( The read-copy-update Mechanism in the Kernel) [LWN](https://lwn.net/Articles/262464/) link.
 - Crowdstrike [post-mortem](https://www.crowdstrike.com/wp-content/uploads/2024/08/Channel-File-291-Incident-Root-Cause-Analysis-08.06.2024.pdf) (linked from [here](https://www.crowdstrike.com/falcon-content-update-remediation-and-guidance-hub/))
 - Fun dive into [embedded firmware](https://lichtlos.weblog.lol/2024/08/how-to-reverse-the-sipeed-nanokvm-firmware) with an eye toward security (buildroot + go)
 - [strlcpy and microarchitecture](https://nrk.neocities.org/articles/cpu-vs-common-sense)
-- Malloc internals, and how they are used for [heap exploits](https://downloads.immunityinc.com/infiltrate-archives/webkit_heap.pdf)
 - the design of [Mimalloc](https://www.microsoft.com/en-us/research/uploads/prod/2019/06/mimalloc-tr-v1.pdf) (lets revisit this at some point)
 - [The server chose violence](https://cliffle.com/blog/hubris-reply-fault/) -- faults with IPC in a microkernel
 - Optimizing [matrix multiplication](https://justine.lol/matmul/) for LLMs in lamma.cpp (includes compiler, vector, and parallelism discussions). See further down in the post.
