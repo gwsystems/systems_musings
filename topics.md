@@ -4,8 +4,7 @@ We'll discuss the first topic on this list in the next meeting.
 Make sure to scan the articles, and come with questions.
 
 List of topics:
-- [Maple Trees](https://lwn.net/Articles/845507/) to track virtual address ranges including some background on how these ranges are tracked.
-  
+  - Updates and complexities in [Linux kernel preemption](https://lwn.net/Articles/944686/) -- or why there is cooperative yielding in the kernel (Please feel free to put other topics before this)
 # List of Potential Topics for Musing
 
 - Everything you might or might not want to know about [TLBs](https://grsecurity.net/h2hc_2024_what_every_hacker_should_know_TLB_invalidation.pdf)
@@ -41,7 +40,6 @@ List of topics:
 
     - More on [ras here](https://lwn.net/Articles/946870/) and [here](https://lwn.net/Articles/697979/)
       
-- Updates and complexities in [Linux kernel preemption](https://lwn.net/Articles/944686/) -- or why there is cooperative yielding in the kernel
 - [pidfd](https://lwn.net/Articles/794707/) and [race-free process creation](https://lwn.net/Articles/943022/)
 - [io_ring vulnerability and VM attestation](https://lwn.net/Articles/943239/)
 - Performing customizable static analysis on system code with [semgrep](https://semgrep.dev/blog/2021/semgrep-a-static-analysis-journey/) (previously [Coccinelle](https://lwn.net/Articles/698724/), which has long been used in the Linux kernel).
@@ -80,6 +78,7 @@ See the great [index](https://lwn.net/Kernel/Index/) of all of the LWN kernel ar
 Makes it easier to browse through them to find whatever you're interested in.
 
 # Topics we've discussed (but can revisist)
+- [Maple Trees](https://lwn.net/Articles/845507/) to track virtual address ranges including some background on how these ranges are tracked.
 - RCU ( The read-copy-update Mechanism in the Kernel) [LWN](https://lwn.net/Articles/262464/) link.
 - KIM VMM [wiser](https://github.com/flouthoc/wiser)
 - How is Rust memeory Safe? What does that mean. [This link maybe?](https://stanford-cs242.github.io/f18/lectures/05-1-rust-memory-safety.html) (Sam)
