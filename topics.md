@@ -5,7 +5,6 @@ Make sure to scan the articles, and come with questions.
 
 List of topics:
 - [Maple Trees](https://lwn.net/Articles/845507/) to track virtual address ranges including some background on how these ranges are tracked.
-- Malloc internals, and how they are used for [heap exploits](https://downloads.immunityinc.com/infiltrate-archives/webkit_heap.pdf) (Feel free to put yours above this one)
   
 # List of Potential Topics for Musing
 
