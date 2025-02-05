@@ -13,6 +13,7 @@ We lost about 8 months of topics as we weren't maintaining records.
 - [Chips and Cheese](https://chipsandcheese.com/)
 - [rust-ddit](https://www.reddit.com/r/rust/)
 - [Linux weekly news](https://lwn.net/Archives/)
+- [Semianalysis](https://semianalysis.com/archives/)
 
 ### News
 
