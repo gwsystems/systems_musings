@@ -4,7 +4,7 @@ We'll discuss the first topic on this list in the next meeting.
 Make sure to scan the articles, and come with questions.
 
 List of topics:
-  - Updates and complexities in [Linux kernel preemption](https://lwn.net/Articles/944686/) (and [part 2](https://lwn.net/Articles/945422/)) -- or why there is cooperative yielding in the kernel (Please feel free to put other topics before this)
+  - We'll go over Part 2 on 2/18/25: Updates and complexities in [Linux kernel preemption](https://lwn.net/Articles/944686/) (and [part 2](https://lwn.net/Articles/945422/)) -- or why there is cooperative yielding in the kernel (Please feel free to put other topics before this)
 # List of Potential Topics for Musing
 
 - Everything you might or might not want to know about [TLBs](https://grsecurity.net/h2hc_2024_what_every_hacker_should_know_TLB_invalidation.pdf)
