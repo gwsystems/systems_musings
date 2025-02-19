@@ -4,11 +4,10 @@ We'll discuss the first topic on this list in the next meeting.
 Make sure to scan the articles, and come with questions.
 
 List of topics:
-- Please add the topic for next week!
+- Everything you might or might not want to know about [TLBs](https://grsecurity.net/h2hc_2024_what_every_hacker_should_know_TLB_invalidation.pdf) (Once again this is Son putting up a topic --- pretty please anyone feel free to put something else before mine)
 
 # List of Potential Topics for Musing
 
-- Everything you might or might not want to know about [TLBs](https://grsecurity.net/h2hc_2024_what_every_hacker_should_know_TLB_invalidation.pdf)
 - OSX sandbox [escapes](https://jhftss.github.io/A-New-Era-of-macOS-Sandbox-Escapes/) (see the slides therein)
 - bolt and [binary layout optimization](https://lwn.net/Articles/993828/)
 - Add links/tutorials/descriptions of DHCP??? How it is used in containers and in the cloud...
