@@ -13,6 +13,9 @@ List of topics:
 
 # List of Potential Topics for Musing
 
+- Using [memory protection keys (MPK) for page-table hardening](https://lwn.net/Articles/1004029/)
+- Fun with [debugging-focused custom schedulers](https://lwn.net/Articles/1007689/) using `schedext`
+- Enabling [user-level polling on the network](https://lwn.net/Articles/1008399/) and other optimizations
 - OSX sandbox [escapes](https://jhftss.github.io/A-New-Era-of-macOS-Sandbox-Escapes/) (see the slides therein)
 - bolt and [binary layout optimization](https://lwn.net/Articles/993828/)
 - Add links/tutorials/descriptions of DHCP??? How it is used in containers and in the cloud...
