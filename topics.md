@@ -4,12 +4,8 @@ We'll discuss the first topic on this list in the next meeting.
 Make sure to scan the articles, and come with questions.
 
 List of topics:
-- How are virtual drivers implemented using virtio? Interesting series of articles on virtio: (Virtio Devices and Virtqueues for the first week 25th)
-    - virtio [devices](https://www.redhat.com/en/blog/virtio-devices-and-drivers-overview-headjack-and-phone)
-    - [queues](https://www.redhat.com/en/blog/virtqueues-and-virtio-ring-how-data-travels)
-    - [optimizations](https://www.redhat.com/en/blog/packed-virtqueue-how-reduce-overhead-virtio)(For the second week?)
 
-- Everything you might or might not want to know about [TLBs](https://grsecurity.net/h2hc_2024_what_every_hacker_should_know_TLB_invalidation.pdf) (Once again this is Son putting up a topic --- pretty please anyone feel free to put something else before mine)
+- Everything you might or might not want to know about [TLBs](https://grsecurity.net/h2hc_2024_what_every_hacker_should_know_TLB_invalidation.pdf)
 
 # List of Potential Topics for Musing
 
@@ -81,6 +77,11 @@ See the great [index](https://lwn.net/Kernel/Index/) of all of the LWN kernel ar
 Makes it easier to browse through them to find whatever you're interested in.
 
 # Topics we've discussed (but can revisist)
+
+- How are virtual drivers implemented using virtio? Interesting series of articles on virtio: (Virtio Devices and Virtqueues for the first week 25th)
+    - virtio [devices](https://www.redhat.com/en/blog/virtio-devices-and-drivers-overview-headjack-and-phone)
+    - [queues](https://www.redhat.com/en/blog/virtqueues-and-virtio-ring-how-data-travels)
+    - [optimizations](https://www.redhat.com/en/blog/packed-virtqueue-how-reduce-overhead-virtio)(For the second week?)
 
 - We'll go over Part 2 on 2/18/25: Updates and complexities in [Linux kernel preemption](https://lwn.net/Articles/944686/) (and [part 2](https://lwn.net/Articles/945422/)) -- or why there is cooperative yielding in the kernel (Please feel free to put other topics before this)
 - [Maple Trees](https://lwn.net/Articles/845507/) to track virtual address ranges including some background on how these ranges are tracked.
