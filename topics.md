@@ -13,7 +13,7 @@ List of topics:
 
 # List of Potential Topics for Musing
 
-- What happens if you [use a made up protocol instead of TCP/UDP] (https://github.com/Hawzen/hdp?tab=readme-ov-file)
+- What happens if you [use a made up protocol instead of TCP/UDP](https://github.com/Hawzen/hdp?tab=readme-ov-file)
 - Using [memory protection keys (MPK) for page-table hardening](https://lwn.net/Articles/1004029/)
 - Fun with [debugging-focused custom schedulers](https://lwn.net/Articles/1007689/) using `schedext`
 - Enabling [user-level polling on the network](https://lwn.net/Articles/1008399/) and other optimizations
