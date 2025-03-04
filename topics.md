@@ -5,7 +5,7 @@ Make sure to scan the articles, and come with questions.
 
 List of topics:
 
-- Everything you might or might not want to know about [TLBs](https://grsecurity.net/h2hc_2024_what_every_hacker_should_know_TLB_invalidation.pdf)
+- Everything you might or might not want to know about [TLBs](https://grsecurity.net/h2hc_2024_what_every_hacker_should_know_TLB_invalidation.pdf) We ll continue from TLB shutdown if no topic added above
 
 # List of Potential Topics for Musing
 
