@@ -6,7 +6,7 @@ Make sure to scan the articles and come up with questions.
 List of topics:
 
 - Everything you might or might not want to know about [TLBs](https://grsecurity.net/h2hc_2024_what_every_hacker_should_know_TLB_invalidation.pdf) We'll continue from TLB shutdown if no topic is added above
-- Storing [data in pointers](https://muxup.com/2023q4/storing-data-in-pointers) and its use cases  (Sam will describe his use case as well)
+- Storing [data in pointers](https://muxup.com/2023q4/storing-data-in-pointers) and its use cases and [Intel LAM](https://lpc.events/event/11/contributions/1010/attachments/875/1679/LAM-LPC-2021.pdf)
 
 # List of Potential Topics for Musing
 
