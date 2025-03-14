@@ -10,6 +10,7 @@ List of topics:
 
 # List of Potential Topics for Musing
 
+- Using virtualization to [sandbox an application](https://info.varnish-software.com/blog/tinykvm-the-fastest-sandbox)
 - What happens if you [use a made up protocol instead of TCP/UDP](https://github.com/Hawzen/hdp?tab=readme-ov-file)
 - Using [memory protection keys (MPK) for page-table hardening](https://lwn.net/Articles/1004029/)
 - Fun with [debugging-focused custom schedulers](https://lwn.net/Articles/1007689/) using `schedext`
