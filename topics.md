@@ -5,7 +5,7 @@ Make sure to scan the articles and come up with questions.
 
 List of topics:
 
-- Everything you might or might not want to know about [TLBs](https://grsecurity.net/h2hc_2024_what_every_hacker_should_know_TLB_invalidation.pdf) We'll continue from TLB shutdown if no topic is added above
+
 - Storing [data in pointers](https://muxup.com/2023q4/storing-data-in-pointers) and its use cases and [Intel LAM](https://lpc.events/event/11/contributions/1010/attachments/875/1679/LAM-LPC-2021.pdf)
 
 # List of Potential Topics for Musing
@@ -143,3 +143,4 @@ Makes it easier to browse through them to find whatever you're interested in.
 - [Zero-copy I/O for ublk, three different ways](https://lwn.net/Articles/926118/)
 - Understanding compiler optimizations, and their interactions with link-time optimization.
 - [Deep dive on how to think about performance.](https://docs.google.com/presentation/d/1wOT5kOWkQybVTHzB7uLXpU39ctYzXpOs2xVyD4zuYXY/edit#slide=id.g809d36a3fc4b213_287 ) https://www.infoq.com/presentations/factors-code-performance/
+- Everything you might or might not want to know about [TLBs](https://grsecurity.net/h2hc_2024_what_every_hacker_should_know_TLB_invalidation.pdf) We'll continue from TLB shutdown if no topic is added above
