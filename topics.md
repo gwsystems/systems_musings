@@ -5,8 +5,7 @@ Make sure to scan the articles and come up with questions.
 
 List of topics:
 
-
-- Storing [data in pointers](https://muxup.com/2023q4/storing-data-in-pointers) and its use cases and [Intel LAM](https://lpc.events/event/11/contributions/1010/attachments/875/1679/LAM-LPC-2021.pdf)
+- TODO!
 
 # List of Potential Topics for Musing
 
@@ -80,6 +79,7 @@ Makes it easier to browse through them to find whatever you're interested in.
 
 # Topics we've discussed (but can revisist)
 
+- Storing [data in pointers](https://muxup.com/2023q4/storing-data-in-pointers) and its use cases and [Intel LAM](https://lpc.events/event/11/contributions/1010/attachments/875/1679/LAM-LPC-2021.pdf)
 - How are virtual drivers implemented using virtio? Interesting series of articles on virtio: (Virtio Devices and Virtqueues for the first week 25th)
     - virtio [devices](https://www.redhat.com/en/blog/virtio-devices-and-drivers-overview-headjack-and-phone)
     - [queues](https://www.redhat.com/en/blog/virtqueues-and-virtio-ring-how-data-travels)
