@@ -9,6 +9,7 @@ List of topics:
 
 # List of Potential Topics for Musing
 
+- Which [compiler flags](https://best.openssf.org/Compiler-Hardening-Guides/Compiler-Options-Hardening-Guide-for-C-and-C++.html) should be used to harden C code?
 - Using virtualization to [sandbox an application](https://info.varnish-software.com/blog/tinykvm-the-fastest-sandbox)
 - What happens if you [use a made up protocol instead of TCP/UDP](https://github.com/Hawzen/hdp?tab=readme-ov-file)
 - Using [memory protection keys (MPK) for page-table hardening](https://lwn.net/Articles/1004029/)
