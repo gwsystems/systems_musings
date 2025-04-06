@@ -5,16 +5,15 @@ Make sure to scan the articles and come up with questions.
 
 List of topics:
 
-- TODO!
+- Enabling [user-level polling on the network](https://lwn.net/Articles/1008399/) and other optimizations
 
 # List of Potential Topics for Musing
-
+- Preemption is GC for [memory reordering](https://pvk.ca/Blog/2019/01/09/preemption-is-gc-for-memory-reordering/)
 - Which [compiler flags](https://best.openssf.org/Compiler-Hardening-Guides/Compiler-Options-Hardening-Guide-for-C-and-C++.html) should be used to harden C code?
 - Using virtualization to [sandbox an application](https://info.varnish-software.com/blog/tinykvm-the-fastest-sandbox)
 - What happens if you [use a made up protocol instead of TCP/UDP](https://github.com/Hawzen/hdp?tab=readme-ov-file)
 - Using [memory protection keys (MPK) for page-table hardening](https://lwn.net/Articles/1004029/)
 - Fun with [debugging-focused custom schedulers](https://lwn.net/Articles/1007689/) using `schedext`
-- Enabling [user-level polling on the network](https://lwn.net/Articles/1008399/) and other optimizations
 - OSX sandbox [escapes](https://jhftss.github.io/A-New-Era-of-macOS-Sandbox-Escapes/) (see the slides therein)
 - bolt and [binary layout optimization](https://lwn.net/Articles/993828/)
 - Add links/tutorials/descriptions of DHCP??? How it is used in containers and in the cloud...
