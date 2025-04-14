@@ -5,7 +5,7 @@ Make sure to scan the articles and come up with questions.
 
 List of topics:
 
-- 
+- No topic selected in time. Cancelling for April 15th.
 
 # List of Potential Topics for Musing
 
