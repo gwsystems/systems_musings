@@ -8,7 +8,8 @@ List of topics:
 - No topic selected in time. Cancelling for April 15th.
 
 # List of Potential Topics for Musing
-
+- SatNOGS-COMMS: An Open-Source Communication Subsystem for CubeSats [FOSDEM'25 Slides](https://fosdem.org/2025/events/attachments/fosdem-2025-6024-satnogs-comms-an-open-source-communication-subsystem-for-cubesats/slides/237797/satnogs-c_70cbHKb.pdf), [FOSDEM'25 Talk](https://ftp.belnet.be/mirror/FOSDEM/video/2025/h1302/fosdem-2025-6024-satnogs-comms-an-open-source-communication-subsystem-for-cubesats.mp4)
+- An Introduction to Netkit: The BPF Programmable Network Device [FOSDEM'25 Slides](https://fosdem.org/2025/events/attachments/fosdem-2025-4045-an-introduction-to-netkit-the-bpf-programmable-network-device/slides/238327/An_Introd_TgFgOaU.pdf), [FOSDEM'25 Talk](https://ftp.belnet.be/mirror/FOSDEM/video/2025/k4201/fosdem-2025-4045-an-introduction-to-netkit-the-bpf-programmable-network-device.mp4)
 - Preemption is GC for [memory reordering](https://pvk.ca/Blog/2019/01/09/preemption-is-gc-for-memory-reordering/)
 - Which [compiler flags](https://best.openssf.org/Compiler-Hardening-Guides/Compiler-Options-Hardening-Guide-for-C-and-C++.html) should be used to harden C code?
 - Using virtualization to [sandbox an application](https://info.varnish-software.com/blog/tinykvm-the-fastest-sandbox)
