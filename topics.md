@@ -5,7 +5,7 @@ Make sure to scan the articles and come up with questions.
 
 List of topics:
 
-- No topic selected in time. Cancelling for April 15th.
+- No topic selected for April 22nd. Take a break for a month???
 
 # List of Potential Topics for Musing
 - SatNOGS-COMMS: An Open-Source Communication Subsystem for CubeSats [FOSDEM'25 Slides](https://fosdem.org/2025/events/attachments/fosdem-2025-6024-satnogs-comms-an-open-source-communication-subsystem-for-cubesats/slides/237797/satnogs-c_70cbHKb.pdf), [FOSDEM'25 Talk](https://ftp.belnet.be/mirror/FOSDEM/video/2025/h1302/fosdem-2025-6024-satnogs-comms-an-open-source-communication-subsystem-for-cubesats.mp4)
