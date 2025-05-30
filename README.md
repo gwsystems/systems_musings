@@ -14,6 +14,7 @@ We lost about 8 months of topics as we weren't maintaining records.
 - [rust-ddit](https://www.reddit.com/r/rust/)
 - [Linux weekly news](https://lwn.net/Archives/)
 - [Semianalysis](https://semianalysis.com/archives/)
+- [Coresix](https://www.corsix.org/)
 
 ### News
 
