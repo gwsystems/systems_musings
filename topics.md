@@ -8,6 +8,7 @@ List of topics:
 - No topic selected. Potentially reschedule in Fall...
 
 # List of Potential Topics for Musing
+- VM escape via VGA device (Idk if looking at a CVE will take an entire session) https://github.com/google/security-research/security/advisories/GHSA-qx2m-rcpc-v43v
 - eBPF used in Microcontrollers for Compartmentalization [eBPF'24](https://dl.acm.org/doi/10.1145/3672197.3673433), [repo](https://github.com/SzymonKubica/micro-bpf)
 - SatNOGS-COMMS: An Open-Source Communication Subsystem for CubeSats [FOSDEM'25 Slides](https://fosdem.org/2025/events/attachments/fosdem-2025-6024-satnogs-comms-an-open-source-communication-subsystem-for-cubesats/slides/237797/satnogs-c_70cbHKb.pdf), [FOSDEM'25 Talk](https://ftp.belnet.be/mirror/FOSDEM/video/2025/h1302/fosdem-2025-6024-satnogs-comms-an-open-source-communication-subsystem-for-cubesats.mp4)
 - An Introduction to Netkit: The BPF Programmable Network Device [FOSDEM'25 Slides](https://fosdem.org/2025/events/attachments/fosdem-2025-4045-an-introduction-to-netkit-the-bpf-programmable-network-device/slides/238327/An_Introd_TgFgOaU.pdf), [FOSDEM'25 Talk](https://ftp.belnet.be/mirror/FOSDEM/video/2025/k4201/fosdem-2025-4045-an-introduction-to-netkit-the-bpf-programmable-network-device.mp4)
