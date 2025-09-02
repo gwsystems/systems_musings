@@ -5,7 +5,7 @@ Make sure to scan the articles and come up with questions.
 
 List of topics:
 
-- No topic selected. Potentially reschedule in Fall...
+- Using [memory protection keys (MPK) for page-table hardening](https://lwn.net/Articles/1004029/) (Managed by Sam)
 
 # List of Potential Topics for Musing
 - VM escape via VGA device (Idk if looking at a CVE will take an entire session) https://github.com/google/security-research/security/advisories/GHSA-qx2m-rcpc-v43v
@@ -16,13 +16,12 @@ List of topics:
 - Which [compiler flags](https://best.openssf.org/Compiler-Hardening-Guides/Compiler-Options-Hardening-Guide-for-C-and-C++.html) should be used to harden C code?
 - Using virtualization to [sandbox an application](https://info.varnish-software.com/blog/tinykvm-the-fastest-sandbox)
 - What happens if you [use a made up protocol instead of TCP/UDP](https://github.com/Hawzen/hdp?tab=readme-ov-file)
-- Using [memory protection keys (MPK) for page-table hardening](https://lwn.net/Articles/1004029/)
 - Fun with [debugging-focused custom schedulers](https://lwn.net/Articles/1007689/) using `schedext`
 - OSX sandbox [escapes](https://jhftss.github.io/A-New-Era-of-macOS-Sandbox-Escapes/) (see the slides therein)
 - bolt and [binary layout optimization](https://lwn.net/Articles/993828/)
 - Add links/tutorials/descriptions of DHCP??? How it is used in containers and in the cloud...
 - Ftrace and how it works (Sam). [Accurate timestamp for ftrace ring buffer](https://lwn.net/Articles/831207/)
-- Soundness manifesto (Sam)
+- [Soundness manifesto](https://yanniss.github.io/Soundiness-CACM.pdf) (Sam)
 - Multi-version concurrency control [sucks](https://www.cs.cmu.edu/~pavlo/blog/2023/04/the-part-of-postgresql-we-hate-the-most.html) in Postgres.
 - Crowdstrike [post-mortem](https://www.crowdstrike.com/wp-content/uploads/2024/08/Channel-File-291-Incident-Root-Cause-Analysis-08.06.2024.pdf) (linked from [here](https://www.crowdstrike.com/falcon-content-update-remediation-and-guidance-hub/))
 - Fun dive into [embedded firmware](https://lichtlos.weblog.lol/2024/08/how-to-reverse-the-sipeed-nanokvm-firmware) with an eye toward security (buildroot + go)
