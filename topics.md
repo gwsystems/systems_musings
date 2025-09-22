@@ -6,7 +6,7 @@ Make sure to scan the articles and come up with questions.
 List of topics:
 
 
-- [SLUB Internals for Exploit Developers](https://www.youtube.com/watch?v=2hYzxsWeNcE) (Managed by Sam)
+- [SLUB Internals for Exploit Developers](https://www.youtube.com/watch?v=2hYzxsWeNcE)-> Link to [slides](https://docs.google.com/presentation/d/1_7qL1G-YkNYdOB0mXupAs5Soq4Qnd4lNptjiFl9P3Nw/edit?slide=id.g3003eb4ed53_5_160#slide=id.g3003eb4ed53_5_160). (Managed by Sam) 
 
 # List of Potential Topics for Musing
 
