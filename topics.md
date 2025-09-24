@@ -4,9 +4,8 @@ We'll discuss the first topic on this list in the next meeting.
 Make sure to scan the articles and come up with questions.
 
 List of topics:
+-  `REVISIT` New Linux [Privilege Escalation](https://pwning.tech/nftables/) based on nf_tables
 
-
-- [SLUB Internals for Exploit Developers](https://www.youtube.com/watch?v=2hYzxsWeNcE)-> Link to [slides](https://docs.google.com/presentation/d/1_7qL1G-YkNYdOB0mXupAs5Soq4Qnd4lNptjiFl9P3Nw/edit?slide=id.g3003eb4ed53_5_160#slide=id.g3003eb4ed53_5_160). (Managed by Sam) 
 
 # List of Potential Topics for Musing
 
@@ -86,6 +85,7 @@ Makes it easier to browse through them to find whatever you're interested in.
 
 # Topics we've discussed (but can revisist)
 
+- [SLUB Internals for Exploit Developers](https://www.youtube.com/watch?v=2hYzxsWeNcE)-> Link to [slides](https://docs.google.com/presentation/d/1_7qL1G-YkNYdOB0mXupAs5Soq4Qnd4lNptjiFl9P3Nw/edit?slide=id.g3003eb4ed53_5_160#slide=id.g3003eb4ed53_5_160). (Managed by Sam) 
 - Using [memory protection keys (MPK) for page-table hardening](https://lwn.net/Articles/1004029/) 
 - Enabling [user-level polling on the network](https://lwn.net/Articles/1008399/) and other optimizations
 - Storing [data in pointers](https://muxup.com/2023q4/storing-data-in-pointers) and its use cases and [Intel LAM](https://lpc.events/event/11/contributions/1010/attachments/875/1679/LAM-LPC-2021.pdf)
