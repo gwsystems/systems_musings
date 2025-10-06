@@ -4,7 +4,8 @@ We'll discuss the first topic on this list in the next meeting.
 Make sure to scan the articles and come up with questions.
 
 List of topics:
-- [x86 User Interrupts support](https://lwn.net/Articles/869140/),and some [slides](https://lpc.events/event/11/contributions/985/attachments/756/1417/User_Interrupts_LPC_2021.pdf)
+- [x86 User Interrupts support](https://lwn.net/Articles/869140/),and some [slides](https://lpc.events/event/11/contributions/985/attachments/756/1417/User_Interrupts_LPC_2021.pdf) 
+- bolt and [binary layout optimization](https://lwn.net/Articles/993828/) 
 
 # List of Potential Topics for Musing
 
@@ -20,7 +21,6 @@ List of topics:
 - What happens if you [use a made up protocol instead of TCP/UDP](https://github.com/Hawzen/hdp?tab=readme-ov-file)
 - Fun with [debugging-focused custom schedulers](https://lwn.net/Articles/1007689/) using `schedext`
 - OSX sandbox [escapes](https://jhftss.github.io/A-New-Era-of-macOS-Sandbox-Escapes/) (see the slides therein)
-- bolt and [binary layout optimization](https://lwn.net/Articles/993828/)
 - Add links/tutorials/descriptions of DHCP??? How it is used in containers and in the cloud...
 - Ftrace and how it works (Sam). [Accurate timestamp for ftrace ring buffer](https://lwn.net/Articles/831207/)
 - [Soundness manifesto](https://yanniss.github.io/Soundiness-CACM.pdf) (Sam)
