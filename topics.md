@@ -7,7 +7,6 @@ List of topics:
 - bolt and [binary layout optimization](https://lwn.net/Articles/993828/) 
 
 # List of Potential Topics for Musing
-- [x86 User Interrupts support](https://lwn.net/Articles/869140/),and some [slides](https://lpc.events/event/11/contributions/985/attachments/756/1417/User_Interrupts_LPC_2021.pdf) 
 - [Kernel-hack-drill and a new approach to exploiting CVE-2024-50264 in the Linux kernel](https://a13xp0p0v.github.io/2025/09/02/kernel-hack-drill-and-CVE-2024-50264.html)
 - Choose some of the list of [awesome C](https://github.com/oz123/awesome-c) programs to cover
 - VM escape via VGA device (Idk if looking at a CVE will take an entire session) https://github.com/google/security-research/security/advisories/GHSA-qx2m-rcpc-v43v
@@ -81,7 +80,7 @@ See the great [index](https://lwn.net/Kernel/Index/) of all of the LWN kernel ar
 Makes it easier to browse through them to find whatever you're interested in.
 
 # Topics we've discussed (but can revisist)
-
+- [x86 User Interrupts support](https://lwn.net/Articles/869140/),and some [slides](https://lpc.events/event/11/contributions/985/attachments/756/1417/User_Interrupts_LPC_2021.pdf) 
 - [SLUB Internals for Exploit Developers](https://www.youtube.com/watch?v=2hYzxsWeNcE)-> Link to [slides](https://docs.google.com/presentation/d/1_7qL1G-YkNYdOB0mXupAs5Soq4Qnd4lNptjiFl9P3Nw/edit?slide=id.g3003eb4ed53_5_160#slide=id.g3003eb4ed53_5_160). (Managed by Sam) 
 - Using [memory protection keys (MPK) for page-table hardening](https://lwn.net/Articles/1004029/) 
 - Enabling [user-level polling on the network](https://lwn.net/Articles/1008399/) and other optimizations
