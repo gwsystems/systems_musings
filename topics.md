@@ -4,11 +4,10 @@ We'll discuss the first topic on this list in the next meeting.
 Make sure to scan the articles and come up with questions.
 
 List of topics:
-- [x86 User Interrupts support](https://lwn.net/Articles/869140/),and some [slides](https://lpc.events/event/11/contributions/985/attachments/756/1417/User_Interrupts_LPC_2021.pdf) 
 - bolt and [binary layout optimization](https://lwn.net/Articles/993828/) 
 
 # List of Potential Topics for Musing
-
+- [x86 User Interrupts support](https://lwn.net/Articles/869140/),and some [slides](https://lpc.events/event/11/contributions/985/attachments/756/1417/User_Interrupts_LPC_2021.pdf) 
 - [Kernel-hack-drill and a new approach to exploiting CVE-2024-50264 in the Linux kernel](https://a13xp0p0v.github.io/2025/09/02/kernel-hack-drill-and-CVE-2024-50264.html)
 - Choose some of the list of [awesome C](https://github.com/oz123/awesome-c) programs to cover
 - VM escape via VGA device (Idk if looking at a CVE will take an entire session) https://github.com/google/security-research/security/advisories/GHSA-qx2m-rcpc-v43v
