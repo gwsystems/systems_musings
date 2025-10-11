@@ -7,6 +7,8 @@ List of topics:
 - bolt and [binary layout optimization](https://lwn.net/Articles/993828/) 
 
 # List of Potential Topics for Musing
+
+- massive remote code exploitation vulnerability in Redis due to a [use-after-free in the garbage collector in Lua](https://redrays.io/blog/poc-for-cve-2025-49844-cve-2025-46817-and-cve-2025-46818-critical-lua-engine-vulnerabilities/)
 - [Kernel-hack-drill and a new approach to exploiting CVE-2024-50264 in the Linux kernel](https://a13xp0p0v.github.io/2025/09/02/kernel-hack-drill-and-CVE-2024-50264.html)
 - Choose some of the list of [awesome C](https://github.com/oz123/awesome-c) programs to cover
 - VM escape via VGA device (Idk if looking at a CVE will take an entire session) https://github.com/google/security-research/security/advisories/GHSA-qx2m-rcpc-v43v
