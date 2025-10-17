@@ -4,7 +4,8 @@ We'll discuss the first topic on this list in the next meeting.
 Make sure to scan the articles and come up with questions.
 
 List of topics:
-- bolt and [binary layout optimization](https://lwn.net/Articles/993828/) 
+
+- Fun with [debugging-focused custom schedulers](https://lwn.net/Articles/1007689/) using `schedext`
 
 # List of Potential Topics for Musing
 
@@ -19,7 +20,6 @@ List of topics:
 - Which [compiler flags](https://best.openssf.org/Compiler-Hardening-Guides/Compiler-Options-Hardening-Guide-for-C-and-C++.html) should be used to harden C code?
 - Using virtualization to [sandbox an application](https://info.varnish-software.com/blog/tinykvm-the-fastest-sandbox)
 - What happens if you [use a made up protocol instead of TCP/UDP](https://github.com/Hawzen/hdp?tab=readme-ov-file)
-- Fun with [debugging-focused custom schedulers](https://lwn.net/Articles/1007689/) using `schedext`
 - OSX sandbox [escapes](https://jhftss.github.io/A-New-Era-of-macOS-Sandbox-Escapes/) (see the slides therein)
 - Add links/tutorials/descriptions of DHCP??? How it is used in containers and in the cloud...
 - Ftrace and how it works (Sam). [Accurate timestamp for ftrace ring buffer](https://lwn.net/Articles/831207/)
@@ -82,6 +82,8 @@ See the great [index](https://lwn.net/Kernel/Index/) of all of the LWN kernel ar
 Makes it easier to browse through them to find whatever you're interested in.
 
 # Topics we've discussed (but can revisist)
+
+- bolt and [binary layout optimization](https://lwn.net/Articles/993828/) 
 - [x86 User Interrupts support](https://lwn.net/Articles/869140/),and some [slides](https://lpc.events/event/11/contributions/985/attachments/756/1417/User_Interrupts_LPC_2021.pdf) 
 - [SLUB Internals for Exploit Developers](https://www.youtube.com/watch?v=2hYzxsWeNcE)-> Link to [slides](https://docs.google.com/presentation/d/1_7qL1G-YkNYdOB0mXupAs5Soq4Qnd4lNptjiFl9P3Nw/edit?slide=id.g3003eb4ed53_5_160#slide=id.g3003eb4ed53_5_160). (Managed by Sam) 
 - Using [memory protection keys (MPK) for page-table hardening](https://lwn.net/Articles/1004029/) 
