@@ -5,7 +5,8 @@ Make sure to scan the articles and come up with questions.
 
 List of topics:
 
-- Fun with [debugging-focused custom schedulers](https://lwn.net/Articles/1007689/) using `schedext`
+- (Feel free to move) eBPF used in Microcontrollers for Compartmentalization [eBPF'24](https://dl.acm.org/doi/10.1145/3672197.3673433), [repo](https://github.com/SzymonKubica/micro-bpf)
+
 
 # List of Potential Topics for Musing
 
@@ -14,7 +15,6 @@ List of topics:
 - [Kernel-hack-drill and a new approach to exploiting CVE-2024-50264 in the Linux kernel](https://a13xp0p0v.github.io/2025/09/02/kernel-hack-drill-and-CVE-2024-50264.html)
 - Choose some of the list of [awesome C](https://github.com/oz123/awesome-c) programs to cover
 - VM escape via VGA device (Idk if looking at a CVE will take an entire session) https://github.com/google/security-research/security/advisories/GHSA-qx2m-rcpc-v43v
-- eBPF used in Microcontrollers for Compartmentalization [eBPF'24](https://dl.acm.org/doi/10.1145/3672197.3673433), [repo](https://github.com/SzymonKubica/micro-bpf)
 - SatNOGS-COMMS: An Open-Source Communication Subsystem for CubeSats [FOSDEM'25 Slides](https://fosdem.org/2025/events/attachments/fosdem-2025-6024-satnogs-comms-an-open-source-communication-subsystem-for-cubesats/slides/237797/satnogs-c_70cbHKb.pdf), [FOSDEM'25 Talk](https://ftp.belnet.be/mirror/FOSDEM/video/2025/h1302/fosdem-2025-6024-satnogs-comms-an-open-source-communication-subsystem-for-cubesats.mp4)
 - An Introduction to Netkit: The BPF Programmable Network Device [FOSDEM'25 Slides](https://fosdem.org/2025/events/attachments/fosdem-2025-4045-an-introduction-to-netkit-the-bpf-programmable-network-device/slides/238327/An_Introd_TgFgOaU.pdf), [FOSDEM'25 Talk](https://ftp.belnet.be/mirror/FOSDEM/video/2025/k4201/fosdem-2025-4045-an-introduction-to-netkit-the-bpf-programmable-network-device.mp4)
 - Preemption is GC for [memory reordering](https://pvk.ca/Blog/2019/01/09/preemption-is-gc-for-memory-reordering/)
@@ -83,7 +83,7 @@ See the great [index](https://lwn.net/Kernel/Index/) of all of the LWN kernel ar
 Makes it easier to browse through them to find whatever you're interested in.
 
 # Topics we've discussed (but can revisist)
-
+- Fun with [debugging-focused custom schedulers](https://lwn.net/Articles/1007689/) using `schedext`
 - bolt and [binary layout optimization](https://lwn.net/Articles/993828/) 
 - [x86 User Interrupts support](https://lwn.net/Articles/869140/),and some [slides](https://lpc.events/event/11/contributions/985/attachments/756/1417/User_Interrupts_LPC_2021.pdf) 
 - [SLUB Internals for Exploit Developers](https://www.youtube.com/watch?v=2hYzxsWeNcE)-> Link to [slides](https://docs.google.com/presentation/d/1_7qL1G-YkNYdOB0mXupAs5Soq4Qnd4lNptjiFl9P3Nw/edit?slide=id.g3003eb4ed53_5_160#slide=id.g3003eb4ed53_5_160). (Managed by Sam) 
