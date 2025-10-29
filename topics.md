@@ -10,7 +10,7 @@ List of topics:
 
 # List of Potential Topics for Musing
 
-- new go [garbage collector](https://go.dev/blog/greenteagc)
+- new go [garbage collector](https://go.dev/blog/greenteagc) that uses vector instructions for efficient scanning
 - massive remote code exploitation vulnerability in Redis due to a [use-after-free in the garbage collector in Lua](https://redrays.io/blog/poc-for-cve-2025-49844-cve-2025-46817-and-cve-2025-46818-critical-lua-engine-vulnerabilities/)
 - [Kernel-hack-drill and a new approach to exploiting CVE-2024-50264 in the Linux kernel](https://a13xp0p0v.github.io/2025/09/02/kernel-hack-drill-and-CVE-2024-50264.html)
 - Choose some of the list of [awesome C](https://github.com/oz123/awesome-c) programs to cover
