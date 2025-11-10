@@ -9,6 +9,7 @@ List of topics:
 
 # List of Potential Topics for Musing
 
+- Introduction to [CHERI] (https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-941.pdf), a comprehensive, high-level summary paper and [slides](https://www.cl.cam.ac.uk/research/security/ctsrd/pdfs/20220228-asplos-cheri-tutorial-full.pdf).
 - Realtime KVM [an old discussion](https://lwn.net/Articles/656807/), look for some up-to-date resources.
 - What is [gVisor](https://gvisor.dev/docs/)? It motivates [Direct host system calls from KVM](https://lwn.net/Articles/902585/).
 - new go [garbage collector](https://go.dev/blog/greenteagc) that uses vector instructions for efficient scanning
