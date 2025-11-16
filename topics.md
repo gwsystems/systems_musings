@@ -4,7 +4,8 @@ We'll discuss the first topic on this list in the next meeting.
 Make sure to scan the articles and come up with questions.
 
 List of topics:
-- How are system calls made in Linux through the [vDSO shared library](https://lwn.net/Articles/615809/), and how can many system calls not actually result in mode transitions?
+- Optimizing [matrix multiplication](https://justine.lol/matmul/) for LLMs in lamma.cpp (includes compiler, vector, and parallelism discussions). See further down in the post.
+  For the remaining time we have we could talk about our up-to-date experiences/purpose/tips using existing LLM tools.
 
 
 # List of Potential Topics for Musing
@@ -86,6 +87,7 @@ Makes it easier to browse through them to find whatever you're interested in.
 
 # Topics we've discussed (but can revisist)
 
+- How are system calls made in Linux through the [vDSO shared library](https://lwn.net/Articles/615809/), and how can many system calls not actually result in mode transitions?
 - eBPF used in Microcontrollers for Compartmentalization [eBPF'24](https://dl.acm.org/doi/10.1145/3672197.3673433), [repo](https://github.com/SzymonKubica/micro-bpf)
 - [Function tracing support](https://uftrace.github.io/slide/#1) using many different mechansims
 - Fun with [debugging-focused custom schedulers](https://lwn.net/Articles/1007689/) using `schedext`
