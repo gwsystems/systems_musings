@@ -4,13 +4,11 @@ We'll discuss the first topic on this list in the next meeting.
 Make sure to scan the articles and come up with questions.
 
 List of topics:
-- Thanksgiving break! (11/25)
-- What is [gVisor](https://gvisor.dev/docs/)? It motivates [Direct host system calls from KVM](https://lwn.net/Articles/902585/).
+- Realtime KVM [an old discussion](https://lwn.net/Articles/656807/), could look for some up-to-date resources later.
 
 # List of Potential Topics for Musing
 
 - Introduction to [CHERI] (https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-941.pdf), a comprehensive, high-level summary paper and [slides](https://www.cl.cam.ac.uk/research/security/ctsrd/pdfs/20220228-asplos-cheri-tutorial-full.pdf).
-- Realtime KVM [an old discussion](https://lwn.net/Articles/656807/), look for some up-to-date resources.
 - new go [garbage collector](https://go.dev/blog/greenteagc) that uses vector instructions for efficient scanning
 - massive remote code exploitation vulnerability in Redis due to a [use-after-free in the garbage collector in Lua](https://redrays.io/blog/poc-for-cve-2025-49844-cve-2025-46817-and-cve-2025-46818-critical-lua-engine-vulnerabilities/)
 - [Kernel-hack-drill and a new approach to exploiting CVE-2024-50264 in the Linux kernel](https://a13xp0p0v.github.io/2025/09/02/kernel-hack-drill-and-CVE-2024-50264.html)
@@ -85,6 +83,7 @@ Makes it easier to browse through them to find whatever you're interested in.
 
 # Topics we've discussed (but can revisist)
 
+- What is [gVisor](https://gvisor.dev/docs/)? It motivates [Direct host system calls from KVM](https://lwn.net/Articles/902585/).
 - Optimizing [matrix multiplication](https://justine.lol/matmul/) for LLMs in lamma.cpp (includes compiler, vector, and parallelism discussions). See further down in the post.
 - How are system calls made in Linux through the [vDSO shared library](https://lwn.net/Articles/615809/), and how can many system calls not actually result in mode transitions?
 - eBPF used in Microcontrollers for Compartmentalization [eBPF'24](https://dl.acm.org/doi/10.1145/3672197.3673433), [repo](https://github.com/SzymonKubica/micro-bpf)
