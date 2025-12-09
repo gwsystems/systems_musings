@@ -4,7 +4,7 @@ We'll discuss the first topic on this list in the next meeting.
 Make sure to scan the articles and come up with questions.
 
 List of topics:
-- Realtime KVM [an old discussion](https://lwn.net/Articles/656807/), could look for some up-to-date resources later.
+- Realtime KVM [an old discussion](https://lwn.net/Articles/656807/). Up-to-date real time linux [paper] (https://arxiv.org/pdf/2412.18104).
 
 # List of Potential Topics for Musing
 
