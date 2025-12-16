@@ -4,7 +4,6 @@ We'll discuss the first topic on this list in the next meeting.
 Make sure to scan the articles and come up with questions.
 
 List of topics:
-- Realtime KVM [an old discussion](https://lwn.net/Articles/656807/). Up-to-date real time linux [paper] (https://arxiv.org/pdf/2412.18104).
 
 # List of Potential Topics for Musing
 
@@ -83,6 +82,7 @@ Makes it easier to browse through them to find whatever you're interested in.
 
 # Topics we've discussed (but can revisist)
 
+- Realtime KVM [an old discussion](https://lwn.net/Articles/656807/). Up-to-date real time linux [paper] (https://arxiv.org/pdf/2412.18104).
 - What is [gVisor](https://gvisor.dev/docs/)? It motivates [Direct host system calls from KVM](https://lwn.net/Articles/902585/).
 - Optimizing [matrix multiplication](https://justine.lol/matmul/) for LLMs in lamma.cpp (includes compiler, vector, and parallelism discussions). See further down in the post.
 - How are system calls made in Linux through the [vDSO shared library](https://lwn.net/Articles/615809/), and how can many system calls not actually result in mode transitions?
