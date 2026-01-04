@@ -7,6 +7,7 @@ List of topics:
 
 # List of Potential Topics for Musing
 
+- Meta’s running a video game console–style scheduler ([lavd](https://lpc.events/event/19/contributions/2099/attachments/1875/4020/lpc-2025-lavd-meta.pdf)) via [`sched_ext`](https://crates.io/crates/scx_lavd) — ([slides](https://lpc.events/event/18/contributions/1713/attachments/1425/3058/scx_lavd-lpc-mc-24.pdf)).
 - Introduction to [CHERI] (https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-941.pdf), a comprehensive, high-level summary paper and [slides](https://www.cl.cam.ac.uk/research/security/ctsrd/pdfs/20220228-asplos-cheri-tutorial-full.pdf).
 - new go [garbage collector](https://go.dev/blog/greenteagc) that uses vector instructions for efficient scanning
 - massive remote code exploitation vulnerability in Redis due to a [use-after-free in the garbage collector in Lua](https://redrays.io/blog/poc-for-cve-2025-49844-cve-2025-46817-and-cve-2025-46818-critical-lua-engine-vulnerabilities/)
