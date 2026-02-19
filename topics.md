@@ -4,7 +4,6 @@ We'll discuss the first topic on this list in the next meeting.
 Make sure to scan the articles and come up with questions.
 
 List of topics:
-- new go [garbage collector](https://go.dev/blog/greenteagc) that uses vector instructions for efficient scanning
 
 # List of Potential Topics for Musing
 - [Local-First Software](https://www.inkandswitch.com/essay/local-first/) 
@@ -81,7 +80,7 @@ See the great [index](https://lwn.net/Kernel/Index/) of all of the LWN kernel ar
 Makes it easier to browse through them to find whatever you're interested in.
 
 # Topics we've discussed (but can revisist)
-
+- new go [garbage collector](https://go.dev/blog/greenteagc) that uses vector instructions for efficient scanning
 - Meta’s running a video game console–style scheduler ([lavd](https://lpc.events/event/19/contributions/2099/attachments/1875/4020/lpc-2025-lavd-meta.pdf)) via [`sched_ext`](https://crates.io/crates/scx_lavd) — ([slides](https://lpc.events/event/18/contributions/1713/attachments/1425/3058/scx_lavd-lpc-mc-24.pdf)).
 - Realtime KVM [an old discussion](https://lwn.net/Articles/656807/). Up-to-date real time linux [paper] (https://arxiv.org/pdf/2412.18104).
 - What is [gVisor](https://gvisor.dev/docs/)? It motivates [Direct host system calls from KVM](https://lwn.net/Articles/902585/).
