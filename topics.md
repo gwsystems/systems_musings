@@ -1,4 +1,5 @@
 # Scheduled Discussions
+- Mar 4th, ELF [core dump](https://lief-project.github.io/doc/latest/tutorials/12_elf_coredump.html) format and parsing.
 
 We'll discuss the first topic on this list in the next meeting. 
 Make sure to scan the articles and come up with questions.
