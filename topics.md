@@ -3,11 +3,13 @@ We'll discuss the first topic on this list in the next meeting.
 Make sure to scan the articles and come up with questions.
 
 List of topics:
+- (For March 18, feel free to move it) AI bots leveraging GitHub exploits: [clinejection](https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another),[hackerbot-claw](https://www.stepsecurity.io/blog/hackerbot-claw-github-actions-exploitation)
+
 - Introduction to [CHERI] (https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-941.pdf), a comprehensive, high-level summary paper and [slides](https://www.cl.cam.ac.uk/research/security/ctsrd/pdfs/20220228-asplos-cheri-tutorial-full.pdf).
+    - (Discussed) Capability representation, tags, permissions, compiler support, simple c example of bounds checking. 
+    - (For March 25) Go over more examples, UAF mitigation, temporal safety, compartmentalization 
 
 # List of Potential Topics for Musing
-- 
-- AI bots leveraging GitHub exploits: [clinejection](https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another),[hackerbot-claw](https://www.stepsecurity.io/blog/hackerbot-claw-github-actions-exploitation)
 - [Sub-Scheduling Support for Linux 7.1](https://lwn.net/Articles/1060210/) - Maybe we should wait for a better article
 - [The state of Linux cloud stack for confidential VMs](https://lwn.net/Articles/1030818/)
 - [Asterinas: Linux-compatible kernel in Rust](https://lwn.net/Articles/1022920/)
