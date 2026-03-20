@@ -3,8 +3,6 @@ We'll discuss the first topic on this list in the next meeting.
 Make sure to scan the articles and come up with questions.
 
 List of topics:
-- (For March 18, feel free to move it) AI bots leveraging GitHub exploits: [clinejection](https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another),[hackerbot-claw](https://www.stepsecurity.io/blog/hackerbot-claw-github-actions-exploitation)
-
 - Introduction to [CHERI] (https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-941.pdf), a comprehensive, high-level summary paper and [slides](https://www.cl.cam.ac.uk/research/security/ctsrd/pdfs/20220228-asplos-cheri-tutorial-full.pdf).
     - (Discussed) Capability representation, tags, permissions, compiler support, simple c example of bounds checking. 
     - (For March 25) Go over more examples, UAF mitigation, temporal safety, compartmentalization 
@@ -85,6 +83,7 @@ See the great [index](https://lwn.net/Kernel/Index/) of all of the LWN kernel ar
 Makes it easier to browse through them to find whatever you're interested in.
 
 # Topics we've discussed (but can revisist)
+- AI bots leveraging GitHub exploits: [clinejection](https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another),[hackerbot-claw](https://www.stepsecurity.io/blog/hackerbot-claw-github-actions-exploitation)
 - Mar 4th, ELF [core dump](https://lief-project.github.io/doc/latest/tutorials/12_elf_coredump.html) format and parsing.
 - [Kernel-hack-drill and a new approach to exploiting CVE-2024-50264 in the Linux kernel](https://a13xp0p0v.github.io/2025/09/02/kernel-hack-drill-and-CVE-2024-50264.html)
 - new go [garbage collector](https://go.dev/blog/greenteagc) that uses vector instructions for efficient scanning
