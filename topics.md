@@ -5,7 +5,9 @@ Make sure to scan the articles and come up with questions.
 List of topics:
 - Introduction to [CHERI](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-941.pdf), a comprehensive, high-level summary paper and [slides](https://www.cl.cam.ac.uk/research/security/ctsrd/pdfs/20220228-asplos-cheri-tutorial-full.pdf).
     - (Discussed) Capability representation, tags, permissions, compiler support, simple c example of bounds checking. 
-    - (For March 25) Go over more examples, UAF mitigation, temporal safety, compartmentalization 
+    - (Discussed) Go over more examples, temporal safety, compartmentalization
+    - (Potential to discuss) Garbage collection (Cornucopia)
+    - (Potential to discuss) How they configure compartmentalization in the code and how to switch between them in runtime
 
 # List of Potential Topics for Musing
 - [Sub-Scheduling Support for Linux 7.1](https://lwn.net/Articles/1060210/) - Maybe we should wait for a better article
