@@ -3,6 +3,9 @@ We'll discuss the first topic on this list in the next meeting.
 Make sure to scan the articles and come up with questions.
 
 List of topics:
+
+- (For April 1st) [Memory passthrough for virtual machines](https://lwn.net/Articles/931933/)
+
 - Introduction to [CHERI](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-941.pdf), a comprehensive, high-level summary paper and [slides](https://www.cl.cam.ac.uk/research/security/ctsrd/pdfs/20220228-asplos-cheri-tutorial-full.pdf).
     - (Discussed) Capability representation, tags, permissions, compiler support, simple c example of bounds checking. 
     - (Discussed) Go over more examples, temporal safety, compartmentalization
@@ -36,7 +39,6 @@ List of topics:
 - Optimizing [matrix multiplication](https://justine.lol/matmul/) for LLMs in lamma.cpp (includes compiler, vector, and parallelism discussions). See further down in the post.
 - Example of using SIMD instructions to parse JSON 4x faster with [simdjson](https://branchfree.org/2019/02/25/paper-parsing-gigabytes-of-json-per-second/)
 - generic [mechanism to handle priority inheritance](https://lwn.net/Articles/953438/)
-
 - ELF [core dump](https://lief-project.github.io/doc/latest/tutorials/12_elf_coredump.html) format and parsing.
 - Survey of [IPC mechanisms](https://beej.us/guide/bgipc/html/) in UNIX
 - [Deferred scheduling](https://lwn.net/Articles/948870/) of threads holding user-level spinlocks...we want something like this!
@@ -65,7 +67,6 @@ List of topics:
 - [Deadline servers as a realtime throttling replacement](https://lwn.net/Articles/934415/)
 - [Optimizing single-owner memory](https://lwn.net/Articles/932391/)
 - [Mitigating vmap lock contention](https://lwn.net/Articles/932396/) and [Improving page-fault scalability](https://lwn.net/Articles/932298/)
-- [Memory passthrough for virtual machines](https://lwn.net/Articles/931933/)
 - [1½ Topics: realtime throttling and user-space adaptive spinning](https://lwn.net/Articles/931789/)
 - [User-space control of memory management](https://lwn.net/Articles/931662/)
 - [Complexities of directed yield](https://lwn.net/Articles/419961/)
