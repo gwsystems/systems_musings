@@ -10,7 +10,7 @@ List of topics:
     - (Potential to discuss) How they configure compartmentalization in the code and how to switch between them in runtime
 
 # List of Potential Topics for Musing
-- [Sub-Scheduling Support for Linux 7.1](https://lwn.net/Articles/1060210/) - Maybe we should wait for a better article
+- [Sub-Scheduling Support for Linux 7.1](https://lwn.net/Articles/1056014/)
 - [The state of Linux cloud stack for confidential VMs](https://lwn.net/Articles/1030818/)
 - [Asterinas: Linux-compatible kernel in Rust](https://lwn.net/Articles/1022920/)
 - [Local-First Software](https://www.inkandswitch.com/essay/local-first/) 
