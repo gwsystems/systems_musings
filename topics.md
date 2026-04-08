@@ -4,6 +4,8 @@ Make sure to scan the articles and come up with questions.
 
 List of topics:
 
+- [Asterinas: Linux-compatible kernel in Rust](https://lwn.net/Articles/1022920/)
+
 - Introduction to [CHERI](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-941.pdf), a comprehensive, high-level summary paper and [slides](https://www.cl.cam.ac.uk/research/security/ctsrd/pdfs/20220228-asplos-cheri-tutorial-full.pdf).
     - (Discussed) Capability representation, tags, permissions, compiler support, simple c example of bounds checking. 
     - (Discussed) Go over more examples, temporal safety, compartmentalization
@@ -13,7 +15,6 @@ List of topics:
 # List of Potential Topics for Musing
 - [Sub-Scheduling Support for Linux 7.1](https://lwn.net/Articles/1056014/)
 - [The state of Linux cloud stack for confidential VMs](https://lwn.net/Articles/1030818/)
-- [Asterinas: Linux-compatible kernel in Rust](https://lwn.net/Articles/1022920/)
 - [Local-First Software](https://www.inkandswitch.com/essay/local-first/) 
 - massive remote code exploitation vulnerability in Redis due to a [use-after-free in the garbage collector in Lua](https://redrays.io/blog/poc-for-cve-2025-49844-cve-2025-46817-and-cve-2025-46818-critical-lua-engine-vulnerabilities/)
 - Choose some of the list of [awesome C](https://github.com/oz123/awesome-c) programs to cover
