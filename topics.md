@@ -4,8 +4,6 @@ Make sure to scan the articles and come up with questions.
 
 List of topics:
 
-- [Asterinas: Linux-compatible kernel in Rust](https://lwn.net/Articles/1022920/)
-
 - Introduction to [CHERI](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-941.pdf), a comprehensive, high-level summary paper and [slides](https://www.cl.cam.ac.uk/research/security/ctsrd/pdfs/20220228-asplos-cheri-tutorial-full.pdf).
     - (Discussed) Capability representation, tags, permissions, compiler support, simple c example of bounds checking. 
     - (Discussed) Go over more examples, temporal safety, compartmentalization
@@ -86,6 +84,7 @@ Makes it easier to browse through them to find whatever you're interested in.
 
 # Topics we've discussed (but can revisist)
 
+- [Asterinas: Linux-compatible kernel in Rust](https://lwn.net/Articles/1022920/)
 - [Memory passthrough for virtual machines](https://lwn.net/Articles/931933/)
 - AI bots leveraging GitHub exploits: [clinejection](https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another),[hackerbot-claw](https://www.stepsecurity.io/blog/hackerbot-claw-github-actions-exploitation)
 - Mar 4th, ELF [core dump](https://lief-project.github.io/doc/latest/tutorials/12_elf_coredump.html) format and parsing.
