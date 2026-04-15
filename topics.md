@@ -4,13 +4,9 @@ Make sure to scan the articles and come up with questions.
 
 List of topics:
 
-- Introduction to [CHERI](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-941.pdf), a comprehensive, high-level summary paper and [slides](https://www.cl.cam.ac.uk/research/security/ctsrd/pdfs/20220228-asplos-cheri-tutorial-full.pdf).
-    - (Discussed) Capability representation, tags, permissions, compiler support, simple c example of bounds checking. 
-    - (Discussed) Go over more examples, temporal safety, compartmentalization
-    - (Potential to discuss) Garbage collection (Cornucopia)
-    - (Potential to discuss) How they configure compartmentalization in the code and how to switch between them in runtime
-
 # List of Potential Topics for Musing
+- Garbage collection in CHERI (Cornucopia)
+- How CHERI provide compartmentalization and how to switch between them in runtime.
 - [Sub-Scheduling Support for Linux 7.1](https://lwn.net/Articles/1056014/)
 - [The state of Linux cloud stack for confidential VMs](https://lwn.net/Articles/1030818/)
 - [Local-First Software](https://www.inkandswitch.com/essay/local-first/) 
