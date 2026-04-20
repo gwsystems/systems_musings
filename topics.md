@@ -2,9 +2,8 @@
 We'll discuss the first topic on this list in the next meeting. 
 Make sure to scan the articles and come up with questions.
 
-- [Challenges for KernelCI](https://lwn.net/Articles/939538/)
-
 List of topics:
+- [Challenges for KernelCI](https://lwn.net/Articles/939538/)
 
 # List of Potential Topics for Musing
 - Garbage collection in CHERI (Cornucopia)
