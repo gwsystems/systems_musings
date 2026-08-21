@@ -8,6 +8,7 @@ List of topics:
 # List of Potential Topics for Musing
 - Garbage collection in CHERI (Cornucopia)
 - How CHERI provide compartmentalization and how to switch between them in runtime.
+- [scx_arena for arbitrary data structures in BPF](https://lwn.net/Articles/1019885/) and [original proposal](https://lwn.net/Articles/961941/) 
 - [Sub-Scheduling Support for Linux 7.1](https://lwn.net/Articles/1056014/)
 - [The state of Linux cloud stack for confidential VMs](https://lwn.net/Articles/1030818/)
 - [Local-First Software](https://www.inkandswitch.com/essay/local-first/) 
